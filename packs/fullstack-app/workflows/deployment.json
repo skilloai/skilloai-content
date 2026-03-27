@@ -1,0 +1,8 @@
+{
+  "name": "deployment",
+  "steps": [
+    "vercel-deployment",
+    "ci-cd-pipeline-builder",
+    "environment-variable-manager"
+  ]
+}

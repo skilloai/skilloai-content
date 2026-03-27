@@ -1,0 +1,20 @@
+{
+  "name": "saas-boilerplate",
+  "title": "SaaS Boilerplate",
+  "description": "Full production-ready SaaS scaffold: multi-tenancy, billing, RBAC, and observability.",
+  "category": "product",
+  "difficulty": "advanced",
+  "tags": [
+    "saas",
+    "boilerplate",
+    "multi-tenant",
+    "billing"
+  ],
+  "workflows": [
+    "tenant-setup",
+    "rbac-system",
+    "billing-integration",
+    "observability",
+    "ci-cd"
+  ]
+}

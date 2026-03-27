@@ -1,0 +1,8 @@
+{
+  "name": "generation-layer",
+  "steps": [
+    "rag-implementation",
+    "llm-structured-output",
+    "prompt-caching"
+  ]
+}

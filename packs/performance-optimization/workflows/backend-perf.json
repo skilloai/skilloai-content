@@ -1,0 +1,8 @@
+{
+  "name": "backend-perf",
+  "steps": [
+    "performance-profiler",
+    "cache-strategy-planner",
+    "backpressure-flow-control"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "vuln-hunting",
+  "steps": [
+    "api-fuzzing-bug-bounty",
+    "cors-misconfig-exploiter",
+    "oauth2-misconfig-hunter"
+  ]
+}

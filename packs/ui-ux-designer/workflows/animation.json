@@ -1,0 +1,8 @@
+{
+  "name": "animation",
+  "steps": [
+    "framer-motion-animation-guru",
+    "css-animation-creator",
+    "magic-animator"
+  ]
+}

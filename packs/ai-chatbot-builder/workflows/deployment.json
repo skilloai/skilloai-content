@@ -1,0 +1,8 @@
+{
+  "name": "deployment",
+  "steps": [
+    "discord-bot-architect",
+    "slack-bot-builder",
+    "vercel-deployment"
+  ]
+}

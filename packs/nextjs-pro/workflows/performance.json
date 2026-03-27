@@ -1,0 +1,8 @@
+{
+  "name": "performance",
+  "steps": [
+    "web-performance-optimization",
+    "bundle-analyzer",
+    "lazy-loading-optimizer"
+  ]
+}

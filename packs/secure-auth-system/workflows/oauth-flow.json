@@ -1,0 +1,8 @@
+{
+  "name": "oauth-flow",
+  "steps": [
+    "oauth2-oidc-flow-designer",
+    "identity-federation-saml",
+    "sso-integration-guide"
+  ]
+}

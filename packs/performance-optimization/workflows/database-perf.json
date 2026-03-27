@@ -1,0 +1,8 @@
+{
+  "name": "database-perf",
+  "steps": [
+    "database-optimizer",
+    "db-indexing-query-tuning-pro",
+    "postgresql-optimization"
+  ]
+}

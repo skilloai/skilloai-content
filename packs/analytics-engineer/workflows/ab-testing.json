@@ -1,0 +1,8 @@
+{
+  "name": "ab-testing",
+  "steps": [
+    "a-b-test-framework",
+    "experiment-designer",
+    "statistical-power-calculator"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "backend-api",
+  "steps": [
+    "rest-api-designer",
+    "api-design-principles",
+    "openapi-spec-writer"
+  ]
+}

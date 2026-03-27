@@ -1,0 +1,8 @@
+{
+  "name": "llm-setup",
+  "steps": [
+    "llm-app-patterns",
+    "prompt-engineering-patterns",
+    "llm-prompt-optimizer"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "triage",
+  "steps": [
+    "vulnerability-reporter",
+    "responsible-disclosure-policy",
+    "cve-analyzer"
+  ]
+}

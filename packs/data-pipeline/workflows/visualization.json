@@ -1,0 +1,8 @@
+{
+  "name": "visualization",
+  "steps": [
+    "grafana-dashboards",
+    "dashboard-dataviz-designer",
+    "data-storytelling"
+  ]
+}

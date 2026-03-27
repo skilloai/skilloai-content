@@ -1,0 +1,8 @@
+{
+  "name": "content-strategy",
+  "steps": [
+    "content-strategy",
+    "content-calendar-generator",
+    "content-strategy-pillar-mapper"
+  ]
+}

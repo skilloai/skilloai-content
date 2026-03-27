@@ -1,0 +1,8 @@
+{
+  "name": "ci-cd-pipeline",
+  "steps": [
+    "ci-cd-pipeline-builder",
+    "github-actions-templates",
+    "deployment-pipeline-design"
+  ]
+}

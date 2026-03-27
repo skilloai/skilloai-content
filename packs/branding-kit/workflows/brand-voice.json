@@ -1,0 +1,8 @@
+{
+  "name": "brand-voice",
+  "steps": [
+    "brand-voice-analyzer",
+    "brand-voice-personality-arch",
+    "copywriting"
+  ]
+}

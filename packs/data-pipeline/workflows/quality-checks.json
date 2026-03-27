@@ -1,0 +1,8 @@
+{
+  "name": "quality-checks",
+  "steps": [
+    "data-quality-checker",
+    "anomaly-detector",
+    "outlier-detector"
+  ]
+}

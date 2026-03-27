@@ -1,0 +1,8 @@
+{
+  "name": "mfa-setup",
+  "steps": [
+    "mfa-implementation-planner",
+    "auth-implementation-patterns",
+    "certificate-lifecycle-manager"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "security-hardening",
+  "steps": [
+    "kubernetes-security-hardener",
+    "k8s-security-policies",
+    "cloud-security-posture"
+  ]
+}

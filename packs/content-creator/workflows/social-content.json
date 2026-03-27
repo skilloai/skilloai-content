@@ -1,0 +1,8 @@
+{
+  "name": "social-content",
+  "steps": [
+    "social-media-caption-writer",
+    "twitter-x-thread-writer",
+    "instagram-story-sequence"
+  ]
+}

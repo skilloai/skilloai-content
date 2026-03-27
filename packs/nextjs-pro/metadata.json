@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-pro",
+  "title": "Next.js Pro Builder",
+  "description": "Build high-performance Next.js apps with advanced routing, caching, and edge deployment.",
+  "category": "webdev",
+  "difficulty": "advanced",
+  "tags": [
+    "nextjs",
+    "performance",
+    "edge",
+    "caching",
+    "typescript"
+  ],
+  "workflows": [
+    "app-router",
+    "data-fetching",
+    "performance",
+    "auth",
+    "edge-deployment"
+  ]
+}

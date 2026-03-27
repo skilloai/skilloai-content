@@ -1,0 +1,21 @@
+{
+  "name": "seo-optimizer",
+  "title": "SEO Growth Machine",
+  "description": "Dominate search rankings with technical SEO, content strategy, and link building.",
+  "category": "growth",
+  "difficulty": "intermediate",
+  "tags": [
+    "seo",
+    "content",
+    "search",
+    "ranking",
+    "technical"
+  ],
+  "workflows": [
+    "technical-seo",
+    "keyword-research",
+    "content-creation",
+    "link-building",
+    "tracking"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "blog-writing",
+  "steps": [
+    "blog-writing-guide",
+    "blog-post-outline-builder",
+    "seo-content-writer"
+  ]
+}

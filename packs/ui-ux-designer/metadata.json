@@ -1,0 +1,21 @@
+{
+  "name": "ui-ux-designer",
+  "title": "UI/UX Design System",
+  "description": "Build a complete product design system: tokens, components, accessibility, and Figma handoff.",
+  "category": "webdev",
+  "difficulty": "intermediate",
+  "tags": [
+    "design",
+    "ui",
+    "ux",
+    "accessibility",
+    "components"
+  ],
+  "workflows": [
+    "design-tokens",
+    "component-library",
+    "accessibility",
+    "animation",
+    "handoff"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "report-writing",
+  "steps": [
+    "bug-bounty-triage-helper",
+    "pen-test-report-generator",
+    "cvss-score-calculator"
+  ]
+}

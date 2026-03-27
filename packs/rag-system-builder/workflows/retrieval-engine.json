@@ -1,0 +1,8 @@
+{
+  "name": "retrieval-engine",
+  "steps": [
+    "hybrid-search-implementation",
+    "similarity-search-patterns",
+    "vector-db-pinecone-designer"
+  ]
+}

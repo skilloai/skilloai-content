@@ -1,0 +1,8 @@
+{
+  "name": "frontend-build",
+  "steps": [
+    "nextjs-app-router-patterns",
+    "react-state-management",
+    "ui-component-builder"
+  ]
+}

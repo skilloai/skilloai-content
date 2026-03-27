@@ -1,0 +1,8 @@
+{
+  "name": "audience-research",
+  "steps": [
+    "audience-segmentation-engine",
+    "persona-builder",
+    "competitive-landscape"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "reporting",
+  "steps": [
+    "dashboard-dataviz-designer",
+    "grafana-dashboards",
+    "data-storytelling"
+  ]
+}

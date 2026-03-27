@@ -1,0 +1,8 @@
+{
+  "name": "monitoring",
+  "steps": [
+    "synthetic-monitor-designer",
+    "slo-implementation",
+    "grafana-dashboards"
+  ]
+}

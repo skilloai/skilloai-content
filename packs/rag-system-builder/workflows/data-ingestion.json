@@ -1,0 +1,8 @@
+{
+  "name": "data-ingestion",
+  "steps": [
+    "dataset-explorer",
+    "data-quality-checker",
+    "nlp-preprocessor"
+  ]
+}

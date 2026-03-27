@@ -1,0 +1,8 @@
+{
+  "name": "blue-green-deploy",
+  "steps": [
+    "blue-green-deployment-strat",
+    "canary-release-controller",
+    "rollback-procedure-writer"
+  ]
+}

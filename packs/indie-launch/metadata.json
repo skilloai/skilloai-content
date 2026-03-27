@@ -1,0 +1,21 @@
+{
+  "name": "indie-launch",
+  "title": "Indie Hacker Launch Kit",
+  "description": "Ship your indie project fast: landing page, SEO, email waitlist, and Product Hunt launch.",
+  "category": "product",
+  "difficulty": "beginner",
+  "tags": [
+    "indie",
+    "launch",
+    "seo",
+    "email",
+    "marketing"
+  ],
+  "workflows": [
+    "landing-page",
+    "seo-setup",
+    "email-capture",
+    "social-launch",
+    "analytics"
+  ]
+}

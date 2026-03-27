@@ -1,0 +1,8 @@
+{
+  "name": "video-scripts",
+  "steps": [
+    "video-script-writer",
+    "youtube-description-optimizer",
+    "podcast-brief-creator"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "devops-starter",
+  "title": "DevOps Starter Kit",
+  "description": "Set up CI/CD, containerization, IaC, and monitoring for your project from scratch.",
+  "category": "devops",
+  "difficulty": "intermediate",
+  "tags": [
+    "devops",
+    "cicd",
+    "docker",
+    "terraform",
+    "monitoring"
+  ],
+  "workflows": [
+    "docker-setup",
+    "ci-cd-pipeline",
+    "infrastructure",
+    "monitoring",
+    "incident-response"
+  ]
+}

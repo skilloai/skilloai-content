@@ -1,0 +1,8 @@
+{
+  "name": "analytics",
+  "steps": [
+    "analytics-tracking",
+    "funnel-analyzer",
+    "posthog-automation"
+  ]
+}

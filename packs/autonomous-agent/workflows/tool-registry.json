@@ -1,0 +1,8 @@
+{
+  "name": "tool-registry",
+  "steps": [
+    "agent-tool-builder",
+    "mcp-builder",
+    "dispatching-parallel-agents"
+  ]
+}

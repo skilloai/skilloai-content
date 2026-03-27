@@ -1,0 +1,8 @@
+{
+  "name": "project-setup",
+  "steps": [
+    "nextjs-best-practices",
+    "environment-setup-guide",
+    "monorepo-architect"
+  ]
+}

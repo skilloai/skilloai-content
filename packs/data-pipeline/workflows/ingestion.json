@@ -1,0 +1,8 @@
+{
+  "name": "ingestion",
+  "steps": [
+    "data-engineer",
+    "etl-script-builder",
+    "change-data-capture-cdc"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "data-fetching",
+  "steps": [
+    "native-data-fetching",
+    "tanstack-query-expert",
+    "nextjs-hydration-optimizer"
+  ]
+}

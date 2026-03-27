@@ -1,0 +1,8 @@
+{
+  "name": "seo-setup",
+  "steps": [
+    "seo-optimizer",
+    "seo-meta-optimizer",
+    "schema-markup"
+  ]
+}

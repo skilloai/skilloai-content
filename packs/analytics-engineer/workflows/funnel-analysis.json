@@ -1,0 +1,8 @@
+{
+  "name": "funnel-analysis",
+  "steps": [
+    "funnel-analyzer",
+    "funnel-conversion-optimizer",
+    "user-flow-friction-hunter"
+  ]
+}

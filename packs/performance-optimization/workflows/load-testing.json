@@ -1,0 +1,8 @@
+{
+  "name": "load-testing",
+  "steps": [
+    "k6-load-testing",
+    "load-test-designer",
+    "stress-test-engine"
+  ]
+}

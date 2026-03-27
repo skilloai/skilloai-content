@@ -1,0 +1,8 @@
+{
+  "name": "transformation",
+  "steps": [
+    "dbt-transformation-patterns",
+    "data-quality-frameworks",
+    "spark-optimization"
+  ]
+}

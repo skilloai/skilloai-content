@@ -1,0 +1,8 @@
+{
+  "name": "mlops",
+  "steps": [
+    "mlops-engineer",
+    "ml-pipeline-workflow",
+    "model-registry-handler"
+  ]
+}

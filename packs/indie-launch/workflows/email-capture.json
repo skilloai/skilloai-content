@@ -1,0 +1,8 @@
+{
+  "name": "email-capture",
+  "steps": [
+    "email-sequence-builder",
+    "lead-magnets",
+    "mailchimp-automation"
+  ]
+}

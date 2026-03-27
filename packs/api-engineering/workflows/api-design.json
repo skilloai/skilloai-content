@@ -1,0 +1,8 @@
+{
+  "name": "api-design",
+  "steps": [
+    "rest-api-designer",
+    "api-design-principles",
+    "graphql-schema-architect"
+  ]
+}

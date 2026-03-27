@@ -1,0 +1,8 @@
+{
+  "name": "backend-api",
+  "steps": [
+    "rest-api-designer",
+    "database-design",
+    "api-documentation-generator"
+  ]
+}

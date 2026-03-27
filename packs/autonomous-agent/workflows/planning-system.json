@@ -1,0 +1,8 @@
+{
+  "name": "planning-system",
+  "steps": [
+    "multi-agent-patterns",
+    "executing-plans",
+    "agent-orchestrator"
+  ]
+}

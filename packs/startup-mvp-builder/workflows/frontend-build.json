@@ -1,0 +1,8 @@
+{
+  "name": "frontend-build",
+  "steps": [
+    "ui-component-builder",
+    "react-best-practices",
+    "responsive-breakpoint-manager"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "handoff",
+  "steps": [
+    "storybook-component-doc",
+    "design-to-code-handoff-expert",
+    "figma-automation"
+  ]
+}

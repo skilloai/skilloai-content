@@ -1,0 +1,8 @@
+{
+  "name": "agent-architecture",
+  "steps": [
+    "autonomous-agents",
+    "autonomous-agent-patterns",
+    "bdi-mental-states"
+  ]
+}

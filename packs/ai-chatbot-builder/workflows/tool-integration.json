@@ -1,0 +1,8 @@
+{
+  "name": "tool-integration",
+  "steps": [
+    "mcp-builder",
+    "agent-tool-builder",
+    "autonomous-agent-patterns"
+  ]
+}

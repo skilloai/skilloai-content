@@ -1,0 +1,8 @@
+{
+  "name": "infrastructure",
+  "steps": [
+    "terraform-infrastructure",
+    "terraform-module-writer",
+    "iac-security-reviewer"
+  ]
+}

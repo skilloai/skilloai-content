@@ -1,0 +1,8 @@
+{
+  "name": "tracking",
+  "steps": [
+    "seo-audit",
+    "google-analytics-automation",
+    "attribution-modeler"
+  ]
+}

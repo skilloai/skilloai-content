@@ -1,0 +1,8 @@
+{
+  "name": "component-library",
+  "steps": [
+    "ui-component-builder",
+    "design-system-architect",
+    "shadcn"
+  ]
+}

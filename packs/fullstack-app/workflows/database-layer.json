@@ -1,0 +1,8 @@
+{
+  "name": "database-layer",
+  "steps": [
+    "database-design",
+    "prisma-expert",
+    "database-migrations-sql-migrations"
+  ]
+}

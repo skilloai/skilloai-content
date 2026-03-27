@@ -1,0 +1,8 @@
+{
+  "name": "event-tracking",
+  "steps": [
+    "analytics-tracking",
+    "segment-cdp",
+    "posthog-automation"
+  ]
+}

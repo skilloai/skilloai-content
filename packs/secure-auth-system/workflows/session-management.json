@@ -1,0 +1,8 @@
+{
+  "name": "session-management",
+  "steps": [
+    "stateless-session-jwt-scaling",
+    "broken-authentication",
+    "secure-code-review-checklist"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jwt-system",
+  "steps": [
+    "jwt-security-analyzer",
+    "jwt-token-manager",
+    "jwt-vulnerability-scanner"
+  ]
+}

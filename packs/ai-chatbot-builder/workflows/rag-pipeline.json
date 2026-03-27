@@ -1,0 +1,8 @@
+{
+  "name": "rag-pipeline",
+  "steps": [
+    "rag-implementation",
+    "rag-engineer",
+    "vector-database-engineer"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "accessibility",
+  "steps": [
+    "wcag-accessibility-auditor",
+    "screen-reader-testing",
+    "fixing-accessibility"
+  ]
+}

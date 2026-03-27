@@ -1,0 +1,8 @@
+{
+  "name": "evaluation",
+  "steps": [
+    "agent-evaluation",
+    "llm-evaluation",
+    "benchmark-comparator"
+  ]
+}

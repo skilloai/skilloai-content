@@ -1,0 +1,8 @@
+{
+  "name": "auto-scaling",
+  "steps": [
+    "auto-scaling-policy-designer",
+    "predictive-autoscaling-blackfriday",
+    "resource-rightsizer"
+  ]
+}

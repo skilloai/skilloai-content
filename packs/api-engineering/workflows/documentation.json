@@ -1,0 +1,8 @@
+{
+  "name": "documentation",
+  "steps": [
+    "openapi-spec-writer",
+    "api-documentation-generator",
+    "api-dev-portal-architect"
+  ]
+}

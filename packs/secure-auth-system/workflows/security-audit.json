@@ -1,0 +1,8 @@
+{
+  "name": "security-audit",
+  "steps": [
+    "security-architecture-review",
+    "owasp-compliance",
+    "secure-sdlc-integrator"
+  ]
+}

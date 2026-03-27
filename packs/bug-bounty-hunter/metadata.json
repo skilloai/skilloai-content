@@ -1,0 +1,20 @@
+{
+  "name": "bug-bounty-hunter",
+  "title": "Bug Bounty Hunter",
+  "description": "Find and report vulnerabilities in bug bounty programs professionally.",
+  "category": "cybersecurity",
+  "difficulty": "advanced",
+  "tags": [
+    "bug-bounty",
+    "hacking",
+    "vulnerabilities",
+    "recon"
+  ],
+  "workflows": [
+    "scope-analysis",
+    "recon",
+    "vuln-hunting",
+    "report-writing",
+    "triage"
+  ]
+}

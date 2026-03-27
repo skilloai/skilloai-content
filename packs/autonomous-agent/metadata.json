@@ -1,0 +1,21 @@
+{
+  "name": "autonomous-agent",
+  "title": "Autonomous Agent Framework",
+  "description": "Build a self-directed AI agent with planning, memory, tool use, and self-correction.",
+  "category": "ai",
+  "difficulty": "advanced",
+  "tags": [
+    "agents",
+    "autonomous",
+    "planning",
+    "tools",
+    "ai"
+  ],
+  "workflows": [
+    "agent-architecture",
+    "planning-system",
+    "tool-registry",
+    "memory-layer",
+    "evaluation"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "memory-layer",
+  "steps": [
+    "agent-memory-systems",
+    "hierarchical-agent-memory",
+    "memory-systems"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "branding-kit",
+  "title": "Brand Identity Kit",
+  "description": "Create a complete brand identity: naming, positioning, visual system, and brand voice.",
+  "category": "growth",
+  "difficulty": "beginner",
+  "tags": [
+    "branding",
+    "identity",
+    "naming",
+    "positioning",
+    "design"
+  ],
+  "workflows": [
+    "brand-strategy",
+    "naming",
+    "visual-identity",
+    "brand-voice",
+    "launch-assets"
+  ]
+}

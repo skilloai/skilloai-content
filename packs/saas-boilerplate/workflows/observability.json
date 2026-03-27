@@ -1,0 +1,8 @@
+{
+  "name": "observability",
+  "steps": [
+    "grafana-dashboards",
+    "prometheus-configuration",
+    "distributed-tracing"
+  ]
+}

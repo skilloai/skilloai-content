@@ -1,0 +1,21 @@
+{
+  "name": "cloud-deployment",
+  "title": "Cloud Deployment Mastery",
+  "description": "Deploy scalable cloud applications on AWS/GCP with Kubernetes, auto-scaling, and zero-downtime.",
+  "category": "devops",
+  "difficulty": "advanced",
+  "tags": [
+    "cloud",
+    "kubernetes",
+    "aws",
+    "auto-scaling",
+    "deployment"
+  ],
+  "workflows": [
+    "k8s-setup",
+    "auto-scaling",
+    "blue-green-deploy",
+    "cost-optimization",
+    "security-hardening"
+  ]
+}

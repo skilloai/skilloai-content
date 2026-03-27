@@ -1,0 +1,8 @@
+{
+  "name": "evaluation",
+  "steps": [
+    "confusion-matrix-analyzer",
+    "model-explainer-shap-lime",
+    "bias-detector"
+  ]
+}

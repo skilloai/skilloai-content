@@ -1,0 +1,8 @@
+{
+  "name": "posting-strategy",
+  "steps": [
+    "hashtag-strategy-planner",
+    "content-calendar-generator",
+    "social-orchestrator"
+  ]
+}

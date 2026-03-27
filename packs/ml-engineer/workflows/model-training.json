@@ -1,0 +1,8 @@
+{
+  "name": "model-training",
+  "steps": [
+    "scikit-learn",
+    "hyperparameter-tuner",
+    "experiment-tracker"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "social-growth",
+  "title": "Social Media Growth System",
+  "description": "Grow a social media audience from 0 to 10K with strategy, hooks, and community building.",
+  "category": "growth",
+  "difficulty": "beginner",
+  "tags": [
+    "social",
+    "growth",
+    "twitter",
+    "tiktok",
+    "community"
+  ],
+  "workflows": [
+    "audience-research",
+    "content-hooks",
+    "posting-strategy",
+    "community-building",
+    "analytics"
+  ]
+}

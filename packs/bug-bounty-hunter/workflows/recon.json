@@ -1,0 +1,8 @@
+{
+  "name": "recon",
+  "steps": [
+    "subdomain-takeover-scout",
+    "osint-digital-footprint",
+    "ffuf-web-fuzzing"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ml-engineer",
+  "title": "ML Engineering Kit",
+  "description": "Build, train, evaluate, and deploy machine learning models in production.",
+  "category": "data",
+  "difficulty": "advanced",
+  "tags": [
+    "ml",
+    "machine-learning",
+    "mlops",
+    "training",
+    "deployment"
+  ],
+  "workflows": [
+    "data-prep",
+    "model-training",
+    "evaluation",
+    "mlops",
+    "serving"
+  ]
+}

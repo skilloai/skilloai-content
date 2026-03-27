@@ -1,0 +1,8 @@
+{
+  "name": "evaluation",
+  "steps": [
+    "llm-evaluation",
+    "experiment-tracker",
+    "benchmark-comparator"
+  ]
+}

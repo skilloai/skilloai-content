@@ -1,0 +1,8 @@
+{
+  "name": "serving",
+  "steps": [
+    "ml-model-serving-architect",
+    "inference-optimizer",
+    "model-performance-tracker"
+  ]
+}

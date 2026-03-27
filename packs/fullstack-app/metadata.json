@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-app",
+  "title": "Full-Stack Web App",
+  "description": "Build a modern full-stack application from scratch with Next.js, database, and deployment.",
+  "category": "webdev",
+  "difficulty": "intermediate",
+  "tags": [
+    "fullstack",
+    "nextjs",
+    "database",
+    "api",
+    "deployment"
+  ],
+  "workflows": [
+    "project-setup",
+    "frontend-build",
+    "backend-api",
+    "database-layer",
+    "deployment"
+  ]
+}

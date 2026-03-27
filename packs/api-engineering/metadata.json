@@ -1,0 +1,21 @@
+{
+  "name": "api-engineering",
+  "title": "API Engineering Suite",
+  "description": "Design, build, document, test, and secure production-grade REST and GraphQL APIs.",
+  "category": "webdev",
+  "difficulty": "intermediate",
+  "tags": [
+    "api",
+    "rest",
+    "graphql",
+    "testing",
+    "documentation"
+  ],
+  "workflows": [
+    "api-design",
+    "implementation",
+    "documentation",
+    "testing",
+    "security"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "design-tokens",
+  "steps": [
+    "design-token-generator",
+    "color-palette-sentiment-expert",
+    "typography-hierarchy-master"
+  ]
+}

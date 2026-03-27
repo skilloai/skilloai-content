@@ -1,0 +1,8 @@
+{
+  "name": "retention-analysis",
+  "steps": [
+    "cohort-analyzer",
+    "churn-predictor",
+    "early-warning-system"
+  ]
+}

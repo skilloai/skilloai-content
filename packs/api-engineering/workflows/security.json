@@ -1,0 +1,8 @@
+{
+  "name": "security",
+  "steps": [
+    "api-security-reviewer",
+    "api-security-best-practices",
+    "jwt-security-analyzer"
+  ]
+}

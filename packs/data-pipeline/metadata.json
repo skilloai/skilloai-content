@@ -1,0 +1,21 @@
+{
+  "name": "data-pipeline",
+  "title": "Data Engineering Pipeline",
+  "description": "Build a modern data pipeline from ingestion to analytics-ready warehouse.",
+  "category": "data",
+  "difficulty": "advanced",
+  "tags": [
+    "data",
+    "pipeline",
+    "etl",
+    "warehouse",
+    "analytics"
+  ],
+  "workflows": [
+    "ingestion",
+    "transformation",
+    "quality-checks",
+    "warehousing",
+    "visualization"
+  ]
+}

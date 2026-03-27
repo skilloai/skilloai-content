@@ -1,0 +1,8 @@
+{
+  "name": "conversion-funnel",
+  "steps": [
+    "funnel-conversion-optimizer",
+    "onboarding-cro",
+    "signup-flow-cro"
+  ]
+}

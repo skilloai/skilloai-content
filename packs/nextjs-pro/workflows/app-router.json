@@ -1,0 +1,8 @@
+{
+  "name": "app-router",
+  "steps": [
+    "nextjs-app-router-patterns",
+    "nextjs-page-generator",
+    "react-patterns"
+  ]
+}

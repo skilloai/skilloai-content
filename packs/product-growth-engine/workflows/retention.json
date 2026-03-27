@@ -1,0 +1,8 @@
+{
+  "name": "retention",
+  "steps": [
+    "churn-prevention",
+    "churn-predictor",
+    "engagement-survey-builder"
+  ]
+}

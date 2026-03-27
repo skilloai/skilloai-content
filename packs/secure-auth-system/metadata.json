@@ -1,0 +1,21 @@
+{
+  "name": "secure-auth-system",
+  "title": "Secure Auth System",
+  "description": "Build a hardened authentication system: OAuth2, MFA, JWT, and session management.",
+  "category": "cybersecurity",
+  "difficulty": "intermediate",
+  "tags": [
+    "auth",
+    "oauth2",
+    "mfa",
+    "jwt",
+    "security"
+  ],
+  "workflows": [
+    "oauth-flow",
+    "jwt-system",
+    "mfa-setup",
+    "session-management",
+    "security-audit"
+  ]
+}

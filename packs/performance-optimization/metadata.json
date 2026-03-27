@@ -1,0 +1,21 @@
+{
+  "name": "performance-optimization",
+  "title": "Performance Optimization Suite",
+  "description": "Profile, diagnose, and fix performance bottlenecks across frontend, backend, and databases.",
+  "category": "devops",
+  "difficulty": "advanced",
+  "tags": [
+    "performance",
+    "optimization",
+    "profiling",
+    "database",
+    "frontend"
+  ],
+  "workflows": [
+    "frontend-perf",
+    "backend-perf",
+    "database-perf",
+    "load-testing",
+    "monitoring"
+  ]
+}

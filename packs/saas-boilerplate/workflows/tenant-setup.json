@@ -1,0 +1,8 @@
+{
+  "name": "tenant-setup",
+  "steps": [
+    "multi-tenant-saas-arch",
+    "database-architect",
+    "database-migrations-sql-migrations"
+  ]
+}

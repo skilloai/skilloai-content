@@ -1,0 +1,8 @@
+{
+  "name": "testing",
+  "steps": [
+    "k6-load-testing",
+    "api-security-testing",
+    "api-mock-generator"
+  ]
+}

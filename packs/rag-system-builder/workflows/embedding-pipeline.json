@@ -1,0 +1,8 @@
+{
+  "name": "embedding-pipeline",
+  "steps": [
+    "embedding-strategies",
+    "embedding-visualizer",
+    "vector-index-tuning"
+  ]
+}

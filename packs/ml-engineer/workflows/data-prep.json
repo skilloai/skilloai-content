@@ -1,0 +1,8 @@
+{
+  "name": "data-prep",
+  "steps": [
+    "feature-engineer",
+    "data-augmenter",
+    "missing-value-imputer"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "rag-system-builder",
+  "title": "RAG System Builder",
+  "description": "Build a high-performance Retrieval-Augmented Generation system from scratch.",
+  "category": "ai",
+  "difficulty": "advanced",
+  "tags": [
+    "rag",
+    "embeddings",
+    "vector-db",
+    "ai",
+    "search"
+  ],
+  "workflows": [
+    "data-ingestion",
+    "embedding-pipeline",
+    "retrieval-engine",
+    "generation-layer",
+    "evaluation"
+  ]
+}

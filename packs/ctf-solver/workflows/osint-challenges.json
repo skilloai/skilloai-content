@@ -1,0 +1,8 @@
+{
+  "name": "osint-challenges",
+  "steps": [
+    "osint-digital-footprint",
+    "shodan-reconnaissance",
+    "dark-web-monitor"
+  ]
+}

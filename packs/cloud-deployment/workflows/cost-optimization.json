@@ -1,0 +1,8 @@
+{
+  "name": "cost-optimization",
+  "steps": [
+    "aws-cost-optimizer",
+    "finops-cost-optimizer",
+    "spot-instance-manager"
+  ]
+}

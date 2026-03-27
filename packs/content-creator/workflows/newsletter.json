@@ -1,0 +1,8 @@
+{
+  "name": "newsletter",
+  "steps": [
+    "newsletter-builder",
+    "email-sequence-builder",
+    "email-subject-line-tester"
+  ]
+}

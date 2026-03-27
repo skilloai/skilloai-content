@@ -1,0 +1,8 @@
+{
+  "name": "edge-deployment",
+  "steps": [
+    "edge-config-writer",
+    "edge-caching-strategist",
+    "vercel-deployment"
+  ]
+}

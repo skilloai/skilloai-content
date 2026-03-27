@@ -1,0 +1,21 @@
+{
+  "name": "content-creator",
+  "title": "Content Creator Studio",
+  "description": "Create high-impact content across blogs, social, video, and newsletters at scale.",
+  "category": "growth",
+  "difficulty": "beginner",
+  "tags": [
+    "content",
+    "blog",
+    "social",
+    "video",
+    "newsletter"
+  ],
+  "workflows": [
+    "content-strategy",
+    "blog-writing",
+    "social-content",
+    "video-scripts",
+    "newsletter"
+  ]
+}

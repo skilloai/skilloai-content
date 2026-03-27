@@ -1,0 +1,8 @@
+{
+  "name": "social-launch",
+  "steps": [
+    "social-media-viral-master",
+    "twitter-x-thread-writer",
+    "social-media-caption-writer"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "rbac-system",
+  "steps": [
+    "rbac-policy-writer",
+    "iam-policy-generator",
+    "auth-implementation-patterns"
+  ]
+}

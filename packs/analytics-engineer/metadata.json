@@ -1,0 +1,21 @@
+{
+  "name": "analytics-engineer",
+  "title": "Analytics Engineer",
+  "description": "Implement product analytics, funnels, retention tracking, and A/B testing infrastructure.",
+  "category": "data",
+  "difficulty": "intermediate",
+  "tags": [
+    "analytics",
+    "product",
+    "funnels",
+    "retention",
+    "ab-testing"
+  ],
+  "workflows": [
+    "event-tracking",
+    "funnel-analysis",
+    "retention-analysis",
+    "ab-testing",
+    "reporting"
+  ]
+}

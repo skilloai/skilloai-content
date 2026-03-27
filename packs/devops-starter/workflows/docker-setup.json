@@ -1,0 +1,8 @@
+{
+  "name": "docker-setup",
+  "steps": [
+    "docker-expert",
+    "dockerfile-optimizer",
+    "docker-compose-generator"
+  ]
+}

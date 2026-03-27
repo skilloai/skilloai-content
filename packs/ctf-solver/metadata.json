@@ -1,0 +1,21 @@
+{
+  "name": "ctf-solver",
+  "title": "CTF Solver Toolkit",
+  "description": "Solve Capture the Flag challenges across all categories: web, crypto, pwn, forensics.",
+  "category": "cybersecurity",
+  "difficulty": "advanced",
+  "tags": [
+    "ctf",
+    "hacking",
+    "exploitation",
+    "forensics",
+    "crypto"
+  ],
+  "workflows": [
+    "web-challenges",
+    "crypto-challenges",
+    "pwn-challenges",
+    "forensics-challenges",
+    "osint-challenges"
+  ]
+}

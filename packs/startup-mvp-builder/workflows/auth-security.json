@@ -1,0 +1,8 @@
+{
+  "name": "auth-security",
+  "steps": [
+    "auth-implementation-patterns",
+    "jwt-security-analyzer",
+    "secure-code-review-checklist"
+  ]
+}

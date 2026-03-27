@@ -1,0 +1,21 @@
+{
+  "name": "startup-mvp-builder",
+  "title": "Startup MVP Builder",
+  "description": "Build and launch a production-grade startup MVP — from idea validation to live deployment.",
+  "category": "product",
+  "difficulty": "intermediate",
+  "tags": [
+    "startup",
+    "mvp",
+    "fullstack",
+    "launch"
+  ],
+  "workflows": [
+    "idea-validation",
+    "ui-design",
+    "frontend-build",
+    "backend-api",
+    "auth-security",
+    "deployment"
+  ]
+}

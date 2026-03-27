@@ -1,0 +1,8 @@
+{
+  "name": "billing-integration",
+  "steps": [
+    "stripe-integration",
+    "billing-automation",
+    "saas-metrics-calculator"
+  ]
+}

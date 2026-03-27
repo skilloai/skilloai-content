@@ -1,0 +1,20 @@
+{
+  "name": "product-growth-engine",
+  "title": "Product Growth Engine",
+  "description": "Build viral growth loops, referral systems, and conversion funnels into your product.",
+  "category": "product",
+  "difficulty": "intermediate",
+  "tags": [
+    "growth",
+    "referral",
+    "virality",
+    "conversion"
+  ],
+  "workflows": [
+    "growth-loop",
+    "referral-system",
+    "conversion-funnel",
+    "retention",
+    "a-b-testing"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ai-chatbot-builder",
+  "title": "AI Chatbot Builder",
+  "description": "Build a production AI chatbot with RAG, memory, and tool use.",
+  "category": "ai",
+  "difficulty": "intermediate",
+  "tags": [
+    "ai",
+    "chatbot",
+    "rag",
+    "llm",
+    "memory"
+  ],
+  "workflows": [
+    "llm-setup",
+    "rag-pipeline",
+    "memory-system",
+    "tool-integration",
+    "deployment"
+  ]
+}

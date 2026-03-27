@@ -1,0 +1,8 @@
+{
+  "name": "scope-analysis",
+  "steps": [
+    "bug-bounty-program-manager",
+    "attack-surface-analyzer",
+    "penetration-test-scoper"
+  ]
+}
