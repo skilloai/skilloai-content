@@ -1,0 +1,12 @@
+{
+  "name": "ctf-web",
+  "description": "End-to-end web exploitation workflow for CTF challenges",
+  "steps": [
+    "web-recon-analyzer",
+    "input-surface-mapper",
+    "xss-sql-injection-detector",
+    "auth-bypass-analyzer",
+    "exploit-validation",
+    "flag-extractor"
+  ]
+}

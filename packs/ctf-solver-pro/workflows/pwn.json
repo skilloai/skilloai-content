@@ -1,0 +1,11 @@
+{
+  "name": "ctf-pwn",
+  "description": "End-to-end binary exploitation (Pwn) workflow for CTF challenges",
+  "steps": [
+    "binary-assembler-analyzer",
+    "buffer-overflow-detector",
+    "rop-chain-planner",
+    "shellcode-generator-logic",
+    "flag-extractor"
+  ]
+}

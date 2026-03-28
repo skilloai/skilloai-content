@@ -1,0 +1,12 @@
+{
+  "name": "ctf-crypto",
+  "description": "End-to-end cryptography workflow for CTF challenges",
+  "steps": [
+    "cipher-identifier",
+    "encoding-decoder",
+    "frequency-analyzer",
+    "known-plaintext-analyzer",
+    "crypto-weakness-detector",
+    "flag-recovery"
+  ]
+}

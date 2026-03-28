@@ -1,0 +1,10 @@
+{
+  "name": "ctf-osint",
+  "description": "End-to-end OSINT investigation workflow for CTF challenges",
+  "steps": [
+    "domain-footprint-mapper",
+    "metadata-exif-extractor",
+    "social-graph-analyzer",
+    "flag-extractor"
+  ]
+}

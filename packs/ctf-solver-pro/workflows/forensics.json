@@ -1,0 +1,11 @@
+{
+  "name": "ctf-forensics",
+  "description": "End-to-end digital forensics workflow for CTF challenges",
+  "steps": [
+    "file-signature-verifier",
+    "pcap-traffic-analyzer",
+    "steganography-detector",
+    "encoding-decoder",
+    "flag-extractor"
+  ]
+}

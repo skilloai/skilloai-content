@@ -1,0 +1,17 @@
+{
+  "name": "ctf-solver-pro",
+  "title": "CTF Solver Pro Pack",
+  "description": "A complete system for solving CTF challenges across all major categories (Web, Crypto, Anti-AI, Pwn, etc.) using structured workflows.",
+  "category": "cybersecurity",
+  "difficulty": "advanced",
+  "tags": ["ctf", "security", "reverse", "crypto", "anti-ai", "web"],
+  "workflows": [
+    "ctf-web",
+    "ctf-crypto",
+    "ctf-anti-ai",
+    "ctf-reversing",
+    "ctf-pwn",
+    "ctf-forensics",
+    "ctf-osint"
+  ]
+}

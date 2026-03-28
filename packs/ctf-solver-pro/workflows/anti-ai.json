@@ -1,0 +1,9 @@
+{
+  "name": "ctf-anti-ai",
+  "steps": [
+    "prompt-injection-detector",
+    "jailbreak-logic-analyzer",
+    "adversarial-perturbation-finder",
+    "llm-logic-bypass-strategy"
+  ]
+}

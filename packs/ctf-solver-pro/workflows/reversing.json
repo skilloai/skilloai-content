@@ -1,0 +1,11 @@
+{
+  "name": "ctf-reversing",
+  "description": "End-to-end reverse engineering workflow for CTF challenges",
+  "steps": [
+    "binary-assembler-analyzer",
+    "string-extractor",
+    "control-flow-mapper",
+    "dynamic-binary-analyzer",
+    "flag-extractor"
+  ]
+}
