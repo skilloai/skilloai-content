@@ -1,8 +1,0 @@
-{
-  "name": "web-challenges",
-  "steps": [
-    "ctf-solver-max-master",
-    "advanced-sqli-blind",
-    "xss-filter-bypass-pro"
-  ]
-}

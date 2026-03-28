@@ -1,8 +1,0 @@
-{
-  "name": "crypto-challenges",
-  "steps": [
-    "crypto-impl-auditor",
-    "constant-time-analysis",
-    "binary-analysis-patterns"
-  ]
-}

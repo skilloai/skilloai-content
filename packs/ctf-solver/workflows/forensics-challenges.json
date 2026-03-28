@@ -1,8 +1,0 @@
-{
-  "name": "forensics-challenges",
-  "steps": [
-    "memory-forensics",
-    "memory-dump-analyzer",
-    "forensic-investigation-guide"
-  ]
-}

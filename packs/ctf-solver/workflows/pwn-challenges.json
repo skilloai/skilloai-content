@@ -1,8 +1,0 @@
-{
-  "name": "pwn-challenges",
-  "steps": [
-    "binary-analysis-patterns",
-    "anti-reversing-techniques",
-    "gdb-cli"
-  ]
-}
