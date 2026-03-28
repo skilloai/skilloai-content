@@ -226,14 +226,4 @@ Found a skill that needs improvement? Want to add a new skill?
 
 ---
 
-## References
-
-- [Anthropic Skills](https://github.com/anthropic/skills) - Official Anthropic skills
-- [UI/UX Pro Max Skills](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - Design skills
-- [Superpowers](https://github.com/obra/superpowers) - Original superpowers collection
-- [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - Planning patterns
-- [NotebookLM](https://github.com/PleasePrompto/notebooklm-skill) - NotebookLM integration
-
----
-
 **Need help?** Check the [FAQ](../docs/users/faq.md) or open an issue on GitHub!
