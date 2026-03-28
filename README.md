@@ -1,229 +1,95 @@
-# Skills Directory
+<div align="center">
+  <img src="docs/assets/hero-banner.png" alt="SkilloAI Hero Banner" width="1000px">
 
-**Welcome to the skills folder!** This is where all 179+ specialized AI skills live.
+  # 🧠 SkilloAI 
 
-## 🤔 What Are Skills?
+  ### **The Universal AI Expert System**
+  *Transform your IDE into a powerhouse with 2,600+ specialized skills, curated packs, and autonomous workflows.*
 
-Skills are specialized instruction sets that teach AI assistants how to handle specific tasks. Think of them as expert knowledge modules that your AI can load on-demand.
+  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/skilloai/agent-skills)
+  [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+  [![Built For](https://img.shields.io/badge/Built%20For-Cursor%20%7C%20Windsurf-blue?style=for-the-badge)](https://cursor.com)
 
-**Simple analogy:** Just like you might consult different experts (a designer, a security expert, a marketer), skills let your AI become an expert in different areas when you need them.
-
----
-
-## 📂 Folder Structure
-
-Each skill lives in its own folder with this structure:
-
-```
-skills/
-├── skill-name/              # Individual skill folder
-│   ├── SKILL.md             # Main skill definition (required)
-│   ├── scripts/             # Helper scripts (optional)
-│   ├── examples/            # Usage examples (optional)
-│   └── resources/           # Templates & resources (optional)
-```
-
-**Key point:** Only `SKILL.md` is required. Everything else is optional!
+  [Explore Skills](skills/) • [Discover Packs](packs/) • [Run Workflows](workflows/) • [Documentation](docs/)
+</div>
 
 ---
 
-## How to Use Skills
+## ✨ Features
 
-### Step 1: Make sure skills are installed
-Skills should be in your `.agent/skills/` directory (or `.claude/skills/`, `.gemini/skills/`, etc.)
-
-### Step 2: Invoke a skill in your AI chat
-Use the `@` symbol followed by the skill name:
-
-```
-@brainstorming help me design a todo app
-```
-
-or
-
-```
-@stripe-integration add payment processing to my app
-```
-
-### Step 3: The AI becomes an expert
-The AI loads that skill's knowledge and helps you with specialized expertise!
+- **🎯 2,600+ Specialized Skills**: Expert instructions for every technical domain imaginable.
+- **📦 25 Curated Skill Packs**: Goal-driven collections (e.g., "SaaS Builder", "Security Auditor").
+- **⚡ 50 Autonomous Workflows**: Staggered execution plans for complex engineering tasks.
+- **🧠 Native AI Unification**: Powered by the `.agent` directory, understood natively by Cursor & Windsurf.
+- **🚀 MCP Ready**: Full support for the Model Context Protocol (MCP) to extend AI with live tools.
 
 ---
 
-## 🚀 Running MCP Servers
+## 🚀 Quick Start
 
-SkilloAI content can be extended with **Model Context Protocol (MCP)** servers to give your AI real-time tools and data access.
-
-### 1. Standalone Execution
-Most MCP servers in this ecosystem can be run directly using `npx` (for Node.js) or `uv` (for Python):
+Initialize SkilloAI in your project in seconds using the official CLI.
 
 ```bash
-# Node.js MCP Server
+# Initialize SkilloAI in the current directory
+npx -y skilloai init
+```
+
+### 🧠 Core Commands
+
+| Command | Description |
+| :--- | :--- |
+| `skilloai explore` | Browse 2,600+ skills by category |
+| `skilloai packs` | Discover and install curated Skill Packs |
+| `skilloai run <prompt>` | Execute AI agents or workflows on your input |
+| `skilloai update` | Sync latest content and rebuild local database |
+| `skilloai doctor` | Verify installation and runtime health |
+
+---
+
+## 📂 Structure: The `.agent` Directory
+
+SkilloAI uses the `.agent/` directory as its unified runtime. This folder is automatically detected by modern AI-native IDEs.
+
+```bash
+.agent/
+├── skills/       # 2,600+ specialized instructions
+├── packs/        # Curated bundles for specific goals
+├── workflows/    # Multi-step execution plans
+└── skills-db.json # High-performance offline index
+```
+
+---
+
+## 🛠️ Integrated Ecosystem
+
+### 🔌 Running MCP Servers
+SkilloAI supports **Model Context Protocol** servers to give your AI real-time tool access.
+
+```bash
+# Run standalone using npx/uv
 npx -y @modelcontextprotocol/server-everything
 
-# Python MCP Server
-uvx mcp-server-sqlite
+# Or run via SkilloAI CLI for integrated reasoning
+skilloai run "use the sqlite mcp to analyze user data"
 ```
 
-### 2. CLI Integration
-You can use the SkilloAI CLI to manage and interact with these servers:
-
-```bash
-skilloai run "use the sqlite mcp to list tables"
-```
-
-### 3. IDE Integration (Claude Desktop/Cursor)
-To use MCP servers in your favorite IDE, add them to your `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "my-server": {
-      "command": "npx",
-      "args": ["-y", "@username/my-mcp-server"]
-    }
-  }
-}
-```
-
----
-
-## Skill Categories
-
-### Creative & Design
-Skills for visual design, UI/UX, and artistic creation:
-- `@algorithmic-art` - Create algorithmic art with p5.js
-- `@canvas-design` - Design posters and artwork (PNG/PDF output)
-- `@frontend-design` - Build production-grade frontend interfaces
-- `@ui-ux-pro-max` - Professional UI/UX design with color, fonts, layouts
-- `@web-artifacts-builder` - Build modern web apps (React, Tailwind, Shadcn/ui)
-- `@theme-factory` - Generate themes for documents and presentations
-- `@brand-guidelines` - Apply Anthropic brand design standards
-- `@slack-gif-creator` - Create high-quality GIFs for Slack
-
-### Development & Engineering
-Skills for coding, testing, debugging, and code review:
-- `@test-driven-development` - Write tests before implementation (TDD)
-- `@systematic-debugging` - Debug systematically, not randomly
-- `@webapp-testing` - Test web apps with Playwright
-- `@receiving-code-review` - Handle code review feedback properly
-- `@requesting-code-review` - Request code reviews before merging
-- `@finishing-a-development-branch` - Complete dev branches (merge, PR, cleanup)
-- `@subagent-driven-development` - Coordinate multiple AI agents for parallel tasks
-
-### Documentation & Office
-Skills for working with documents and office files:
-- `@doc-coauthoring` - Collaborate on structured documents
-- `@docx` - Create, edit, and analyze Word documents
-- `@xlsx` - Work with Excel spreadsheets (formulas, charts)
-- `@pptx` - Create and modify PowerPoint presentations
-- `@pdf` - Handle PDFs (extract text, merge, split, fill forms)
-- `@internal-comms` - Draft internal communications (reports, announcements)
-- `@notebooklm` - Query Google NotebookLM notebooks
-
-### Planning & Workflow
-Skills for task planning and workflow optimization:
-- `@brainstorming` - Brainstorm and design before coding
-- `@writing-plans` - Write detailed implementation plans
-- `@planning-with-files` - File-based planning system (Manus-style)
-- `@executing-plans` - Execute plans with checkpoints and reviews
-- `@using-git-worktrees` - Create isolated Git worktrees for parallel work
-- `@verification-before-completion` - Verify work before claiming completion
-- `@using-superpowers` - Discover and use advanced skills
-
-### System Extension
-Skills for extending AI capabilities:
-- `@mcp-builder` - Build MCP (Model Context Protocol) servers
-- `@skill-creator` - Create new skills or update existing ones
-- `@writing-skills` - Tools for writing and validating skill files
-- `@dispatching-parallel-agents` - Distribute tasks to multiple agents
-
----
-
-## Finding Skills
-
-### Method 1: Browse this folder
-```bash
-ls skills/
-```
-
-### Method 2: Search by keyword
-```bash
-ls skills/ | grep "keyword"
-```
-
-### Method 3: Check the main README
-See the [main README](../README.md) for the complete list of all 179+ skills organized by category.
-
----
-
-## 💡 Popular Skills to Try
-
-**For beginners:**
-- `@brainstorming` - Design before coding
-- `@systematic-debugging` - Fix bugs methodically
-- `@git-pushing` - Commit with good messages
-
-**For developers:**
-- `@test-driven-development` - Write tests first
-- `@react-best-practices` - Modern React patterns
-- `@senior-fullstack` - Full-stack development
-
-**For security:**
-- `@ethical-hacking-methodology` - Security basics
-- `@burp-suite-testing` - Web app security testing
-
----
-
-## Creating Your Own Skill
-
-Want to create a new skill? Check out:
-1. [CONTRIBUTING.md](../CONTRIBUTING.md) - How to contribute
-2. [docs/contributors/skill-anatomy.md](../docs/contributors/skill-anatomy.md) - Skill structure guide
-3. `@skill-creator` - Use this skill to create new skills!
-
-**Basic structure:**
-```markdown
----
-name: my-skill-name
-description: "What this skill does"
----
-
-# Skill Title
-
-## Overview
-[What this skill does]
-
-## When to Use
-- Use when [scenario]
-
-## Instructions
-[Step-by-step guide]
-
-## Examples
-[Code examples]
-```
-
----
-
-## Documentation
-
-- **[Getting Started](../docs/users/getting-started.md)** - Quick start guide
-- **[Examples](../docs/contributors/examples.md)** - Real-world usage examples
-- **[FAQ](../docs/users/faq.md)** - Common questions
-- **[Visual Guide](../docs/users/visual-guide.md)** - Diagrams and flowcharts
+### 💻 IDE Integration (Cursor / Windsurf)
+SkilloAI is designed to be the "Expert Engine" for your IDE. Once initialized, your AI assistant will automatically leverage the skills in the `.agent` directory to provide high-precision assistance.
 
 ---
 
 ## 🌟 Contributing
 
-Found a skill that needs improvement? Want to add a new skill?
+SkilloAI is a community-driven expert system. We welcome new skills, packs, and workflow optimizations!
 
-1. Read [CONTRIBUTING.md](../CONTRIBUTING.md)
-2. Study existing skills in this folder
-3. Create your skill following the structure
-4. Submit a Pull Request
+1.  Check out our **[Contributing Guide](CONTRIBUTING.md)**.
+2.  Use the `@skill-creator` skill to build your own expertise.
+3.  Submit a Pull Request to share your knowledge with the world.
 
 ---
 
-**Need help?** Check the [FAQ](../docs/users/faq.md) or open an issue on GitHub!
+<div align="center">
+  <sub>Built with ❤️ by the SkilloAI Community.</sub><br>
+  <sub>"Every expert was once a beginner."</sub>
+</div>
