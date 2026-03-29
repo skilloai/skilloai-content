@@ -2,7 +2,7 @@
 name: dependency-management-deps-audit
 description: "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

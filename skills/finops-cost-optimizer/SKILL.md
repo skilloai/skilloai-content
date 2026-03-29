@@ -1,7 +1,7 @@
 name: FinOps Cloud Cost Optimizer
 description: High-power architectural assistant specializing in identifying wasted resources and reserved instances using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: FinOps Cloud Cost Optimizer Expert
 # Domain: System Design - Infrastructure

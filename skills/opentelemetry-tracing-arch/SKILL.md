@@ -1,7 +1,7 @@
 name: Observability & Tracing Architecture
 description: High-power architectural assistant specializing in designing OpenTelemetry spans across services using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Observability & Tracing Architecture Expert
 # Domain: System Design - Reliability

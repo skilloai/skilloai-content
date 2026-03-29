@@ -2,7 +2,7 @@
 name: incident-responder
 description: Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

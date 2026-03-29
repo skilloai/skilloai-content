@@ -1,7 +1,7 @@
 name: Footer & Secondary Navigation Designer
 description: High-power UI/UX strategist specializing in designing for the end of the page with an eye for premium aesthetics.
 tags: ["UI/UX", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Footer & Secondary Navigation Designer Expert
 # Domain: UI/UX - Product Strategy

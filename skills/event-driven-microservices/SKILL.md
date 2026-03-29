@@ -1,7 +1,7 @@
 name: Event-Driven Microservices Designer
 description: High-power architectural assistant specializing in implementing Sagas and Outbox patterns for consistency using modern infrastructure patterns.
 tags: ["System Design", "Microservices", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Event-Driven Microservices Designer Expert
 # Domain: System Design - Microservices

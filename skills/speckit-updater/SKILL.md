@@ -2,7 +2,7 @@
 name: speckit-updater
 description: SpecKit Safe Update
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # SpecKit Safe Update

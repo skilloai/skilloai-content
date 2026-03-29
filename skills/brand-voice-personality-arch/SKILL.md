@@ -1,7 +1,7 @@
 name: Brand Voice & Personality Architect
 description: High-power creative catalyst specializing in defining how the company speaks uniquely using radical ideation techniques.
 tags: ["Brainstorming", "Branding", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Brand Voice & Personality Architect Expert
 # Domain: Brainstorming - Branding

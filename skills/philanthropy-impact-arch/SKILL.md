@@ -1,7 +1,7 @@
 name: Philanthropy & Giving Plan Architect
 description: High-power productivity strategist specializing in optimizing social impact and donations using scientifically-backed methods.
 tags: ["Productivity", "Lifestyle", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Philanthropy & Giving Plan Architect Expert
 # Domain: Productivity - Lifestyle

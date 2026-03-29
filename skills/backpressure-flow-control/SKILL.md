@@ -1,7 +1,7 @@
 name: Backpressure & Flow Control Expert
 description: High-power architectural assistant specializing in preventing consumer overload in async systems using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Backpressure & Flow Control Expert Expert
 # Domain: System Design - Reliability

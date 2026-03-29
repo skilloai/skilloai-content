@@ -3,7 +3,7 @@ name: youtube-summarizer
 description: "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"
 category: content
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 tags: "[video, summarization, transcription, youtube, content-analysis]"
 date_added: "2026-02-27"
 ---

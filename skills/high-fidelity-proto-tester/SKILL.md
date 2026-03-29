@@ -1,7 +1,7 @@
 name: Interactive Prototypes (High Fidelity)
 description: High-power UI/UX strategist specializing in building feels-like-real-thing tests with an eye for premium aesthetics.
 tags: ["UI/UX", "Testing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Interactive Prototypes (High Fidelity) Expert
 # Domain: UI/UX - Testing

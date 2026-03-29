@@ -1,7 +1,7 @@
 name: VPC Design & Subnet Strategy
 description: High-power architectural assistant specializing in secure network topology for multi-tier apps using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: VPC Design & Subnet Strategy Expert
 # Domain: System Design - Security

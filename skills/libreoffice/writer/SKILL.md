@@ -3,7 +3,7 @@ name: writer
 description: "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer."
 category: document-processing
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

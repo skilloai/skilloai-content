@@ -2,7 +2,7 @@
 name: dbos-golang
 description: "Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows. Use when adding DBOS to existing Go code, creating workflows and steps, or using queues for concurrency control."
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

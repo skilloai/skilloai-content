@@ -1,7 +1,7 @@
 name: Elixir OTP Genius
 description: High-power assistant specializing in fault-tolerant distributed systems using industry-leading patterns.
 tags: ["Coding", "Systems", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Elixir OTP Genius Expert
 # Domain: Coding - Systems

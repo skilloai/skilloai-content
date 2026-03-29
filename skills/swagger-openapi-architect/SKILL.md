@@ -1,7 +1,7 @@
 name: Swagger/OpenAPI Spec Architect
 description: High-power assistant specializing in designing perfect schemas for generation using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Swagger/OpenAPI Spec Architect Expert
 # Domain: Coding - Backend

@@ -2,7 +2,7 @@
 name: elixir-pro
 description: Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

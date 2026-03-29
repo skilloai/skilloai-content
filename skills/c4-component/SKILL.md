@@ -2,7 +2,7 @@
 name: c4-component
 description: Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Component-level architecture, defining component boundaries, interfaces, and relationships.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

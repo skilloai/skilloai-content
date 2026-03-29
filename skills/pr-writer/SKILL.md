@@ -2,7 +2,7 @@
 name: pr-writer
 description: "Create pull requests following Sentry's engineering practices."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # PR Writer

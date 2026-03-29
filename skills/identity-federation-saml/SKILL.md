@@ -1,7 +1,7 @@
 name: Identity Federation (SAML/ADFS)
 description: High-power architectural assistant specializing in enterprise SSO integration patterns using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Identity Federation (SAML/ADFS) Expert
 # Domain: System Design - Security

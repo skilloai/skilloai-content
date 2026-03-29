@@ -2,7 +2,7 @@
 name: startup-metrics-framework
 description: "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

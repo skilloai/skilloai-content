@@ -1,7 +1,7 @@
 name: Project Milestone & Roadmap Planner
 description: High-power productivity strategist specializing in breaking down impossible goals into clear steps using scientifically-backed methods.
 tags: ["Productivity", "Product Management", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Project Milestone & Roadmap Planner Expert
 # Domain: Productivity - Product Management

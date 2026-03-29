@@ -2,7 +2,7 @@
 name: azure-search-documents-ts
 description: "Build search applications with vector, hybrid, and semantic search capabilities."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

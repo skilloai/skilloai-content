@@ -3,9 +3,9 @@ name: interview-coach
 description: "Full job search coaching system — JD decoding, resume, storybank, mock interviews, transcript analysis, comp negotiation. 23 commands, persistent state."
 category: productivity
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-11"
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags: [interview, job-search, coaching, career, storybank, negotiation]
 tools: [claude]
 ---

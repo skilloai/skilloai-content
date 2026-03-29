@@ -1,7 +1,7 @@
 name: E-commerce Checkout UX Optimizer
 description: High-power UI/UX strategist specializing in reducing cart abandonment via UI logic with an eye for premium aesthetics.
 tags: ["UI/UX", "Fintech", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: E-commerce Checkout UX Optimizer Expert
 # Domain: UI/UX - Fintech

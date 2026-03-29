@@ -1,7 +1,7 @@
 name: Product Feature & Roadmap Imaginator
 description: High-power creative catalyst specializing in generating the WOW features for new products using radical ideation techniques.
 tags: ["Brainstorming", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Product Feature & Roadmap Imaginator Expert
 # Domain: Brainstorming - Product Strategy

@@ -2,7 +2,7 @@
 name: lint-and-validate
 description: "MANDATORY: Run appropriate validation tools after EVERY code change. Do not finish a task until the code is error-free."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

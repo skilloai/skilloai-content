@@ -2,7 +2,7 @@
 name: web-artifacts-builder
 description: "To build powerful frontend claude.ai artifacts, follow these steps:"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,9 +2,9 @@
 name: leiloeiro-mercado
 description: Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - market-analysis
 - real-estate

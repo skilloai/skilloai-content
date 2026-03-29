@@ -1,7 +1,7 @@
 name: C# EF Core Performance
 description: High-power assistant specializing in query optimization and change tracking using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: C# EF Core Performance Expert
 # Domain: Coding - Backend

@@ -1,6 +1,6 @@
-# Contributing to SkilloAI Skills
+# Contributing to Promptraft Skills
 
-Thank you for wanting to contribute! SkilloAI is a community-driven marketplace for high-quality, reusable AI prompts (skills). 
+Thank you for wanting to contribute! Promptraft is a community-driven marketplace for high-quality, reusable AI prompts (skills). 
 
 To ensure consistency and scalability, every skill must follow these rules.
 

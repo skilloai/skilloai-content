@@ -1,6 +1,6 @@
 ---
 title: "Apple Pay | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Apple Pay
 

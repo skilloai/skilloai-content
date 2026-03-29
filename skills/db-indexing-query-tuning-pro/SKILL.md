@@ -1,7 +1,7 @@
 name: Database Indexing & Query Tuning
 description: High-power architectural assistant specializing in maximizing IOPS and reducing CPU wait times using modern infrastructure patterns.
 tags: ["System Design", "Database", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Database Indexing & Query Tuning Expert
 # Domain: System Design - Database

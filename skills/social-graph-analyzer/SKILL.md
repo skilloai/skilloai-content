@@ -4,7 +4,7 @@ description: "Map and analyze social media profiles, relationships, and digital 
 category: osint
 tags: ["ctf", "security", "osint", "social-engineering", "identity", "social-graph"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Social Graph Analyzer

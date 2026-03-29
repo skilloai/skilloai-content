@@ -27,5 +27,5 @@ Transform unknown ciphertext into plaintext and recover the final flag.
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-crypto
+promptraft workflow run ctf-crypto
 ```

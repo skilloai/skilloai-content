@@ -5,7 +5,7 @@ license: Apache-2.0 license
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Cirq - Quantum Computing with Python

@@ -4,7 +4,7 @@ description: "Systematically analyze network packet captures (PCAP) for hidden d
 category: forensics
 tags: ["ctf", "security", "forensics", "pcap", "wireshark", "network"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # PCAP Traffic Analyzer

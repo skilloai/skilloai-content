@@ -27,5 +27,5 @@ Transform raw URL or source code into a validated exploit path and flag extracti
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-web
+promptraft workflow run ctf-web
 ```

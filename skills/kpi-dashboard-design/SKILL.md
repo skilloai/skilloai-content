@@ -2,7 +2,7 @@
 name: kpi-dashboard-design
 description: "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -1,7 +1,7 @@
 name: Accessibility: Screen Reader Emulation
 description: High-power UI/UX strategist specializing in designing for non-visual navigation paths with an eye for premium aesthetics.
 tags: ["UI/UX", "Accessibility", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Accessibility: Screen Reader Emulation Expert
 # Domain: UI/UX - Accessibility

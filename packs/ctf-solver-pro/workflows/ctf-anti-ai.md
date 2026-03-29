@@ -24,5 +24,5 @@ Transform a secure AI system into an exploited or bypassed state to recover the 
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-anti-ai
+promptraft workflow run ctf-anti-ai
 ```

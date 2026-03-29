@@ -2,7 +2,7 @@
 name: incident-runbook-templates
 description: "Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

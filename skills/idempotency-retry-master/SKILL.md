@@ -1,7 +1,7 @@
 name: Idempotency & Retry Logic Master
 description: High-power architectural assistant specializing in ensuring safe message processing in distributed systems using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Idempotency & Retry Logic Master Expert
 # Domain: System Design - Reliability

@@ -3,9 +3,9 @@ name: skill-check
 description: "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do."
 category: development
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-11"
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags: [validation, linter, agentskills, skill-authoring, code-quality]
 tools: [claude, cursor, windsurf, codex-cli]
 license: MIT

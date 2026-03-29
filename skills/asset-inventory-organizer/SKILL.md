@@ -1,7 +1,7 @@
 name: Asset Management & Inventory Planner
 description: High-power productivity strategist specializing in organizing digital and physical files efficiently using scientifically-backed methods.
 tags: ["Productivity", "Organization", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Asset Management & Inventory Planner Expert
 # Domain: Productivity - Organization

@@ -1,7 +1,7 @@
 name: Search Engine (Elasticsearch) Specialist
 description: High-power architectural assistant specializing in indexing strategies and fuzzy matching optimization using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Search Engine (Elasticsearch) Specialist Expert
 # Domain: System Design - Infrastructure

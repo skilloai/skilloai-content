@@ -2,9 +2,9 @@
 name: junta-leiloeiros
 description: Coleta e consulta dados de leiloeiros oficiais de todas as 27 Juntas Comerciais do Brasil. Scraper multi-UF, banco SQLite, API FastAPI e exportacao CSV/JSON.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - scraping
 - brazilian-data

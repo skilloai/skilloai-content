@@ -4,7 +4,7 @@ description: "Verify and analyze file signatures (magic bytes) to identify true 
 category: forensics
 tags: ["ctf", "security", "forensics", "file-signatures", "magic-bytes", "carving"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # File Signature Verifier

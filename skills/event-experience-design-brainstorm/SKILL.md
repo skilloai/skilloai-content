@@ -1,7 +1,7 @@
 name: Event & Experience Design Brainstormer
 description: High-power creative catalyst specializing in creating high-impact real-world moments using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Event & Experience Design Brainstormer Expert
 # Domain: Brainstorming - Marketing

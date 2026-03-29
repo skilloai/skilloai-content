@@ -1,7 +1,7 @@
 name: Skeleton Loader & Transition Specialist
 description: High-power UI/UX strategist specializing in reducing perceived latency via smart UI with an eye for premium aesthetics.
 tags: ["UI/UX", "Performance", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Skeleton Loader & Transition Specialist Expert
 # Domain: UI/UX - Performance

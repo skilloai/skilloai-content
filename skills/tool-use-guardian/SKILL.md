@@ -3,9 +3,9 @@ name: tool-use-guardian
 description: "FREE — Intelligent tool-call reliability wrapper. Monitors, retries, fixes, and learns from tool failures. Auto-recovers from truncated JSON, timeouts, rate limits, and mid-chain failures."
 category: reliability
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-13"
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags: [reliability, tool-use, error-handling, retries, recovery, agent-infrastructure]
 tools: [claude, cursor, codex, gemini, copilot, windsurf, antigravity]
 ---

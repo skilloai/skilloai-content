@@ -1,7 +1,7 @@
 name: Distributed Locking (Redis/Zookeeper)
 description: High-power architectural assistant specializing in preventing race conditions in clustered environments using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Distributed Locking (Redis/Zookeeper) Expert
 # Domain: System Design - Reliability

@@ -1,7 +1,7 @@
 name: Marketing: Influencer Campaign Architect
 description: High-power creative catalyst specializing in matching product to the perfect voice using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Marketing: Influencer Campaign Architect Expert
 # Domain: Brainstorming - Marketing

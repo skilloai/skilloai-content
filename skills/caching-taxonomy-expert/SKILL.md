@@ -1,7 +1,7 @@
 name: Caching Taxonomy (L1/L2/L3)
 description: High-power architectural assistant specializing in designing multi-layer caching hierarchies using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Caching Taxonomy (L1/L2/L3) Expert
 # Domain: System Design - Reliability

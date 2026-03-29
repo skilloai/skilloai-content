@@ -1,7 +1,7 @@
 name: Brainstorming: The Worst Idea First Facilitator
 description: High-power creative catalyst specializing in breaking the ice to find radical concepts using radical ideation techniques.
 tags: ["Brainstorming", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Brainstorming: The Worst Idea First Facilitator Expert
 # Domain: Brainstorming - Strategy

@@ -1,7 +1,7 @@
 name: API Gateway (Kong/Apigee) Designer
 description: High-power architectural assistant specializing in centralizing auth, logging, and transformation using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: API Gateway (Kong/Apigee) Designer Expert
 # Domain: System Design - Infrastructure

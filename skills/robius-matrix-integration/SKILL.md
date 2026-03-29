@@ -6,7 +6,7 @@ description: |
   matrix-sdk, matrix client, robrix, matrix room,
   Matrix 集成, 聊天客户端
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Robius Matrix SDK Integration Skill

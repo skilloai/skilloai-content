@@ -1,7 +1,7 @@
 name: WASM Performance Bridge
 description: High-power assistant specializing in optimizing JS to WebAssembly data transfer using industry-leading patterns.
 tags: ["Coding", "Systems", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: WASM Performance Bridge Expert
 # Domain: Coding - Systems

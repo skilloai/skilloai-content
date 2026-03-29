@@ -1,7 +1,7 @@
 name: Ethics & Risk: The Black Mirror Planner
 description: High-power creative catalyst specializing in what can go wrong in a worst case scenario using radical ideation techniques.
 tags: ["Brainstorming", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Ethics & Risk: The Black Mirror Planner Expert
 # Domain: Brainstorming - Strategy

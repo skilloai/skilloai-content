@@ -1,7 +1,7 @@
 name: Project Budgeting & Resource Estimator
 description: High-power productivity strategist specializing in avoiding the planning fallacy in estimates using scientifically-backed methods.
 tags: ["Productivity", "Product Management", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Project Budgeting & Resource Estimator Expert
 # Domain: Productivity - Product Management

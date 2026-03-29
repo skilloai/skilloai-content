@@ -2,7 +2,7 @@
 name: avalonia-zafiro-development
 description: "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

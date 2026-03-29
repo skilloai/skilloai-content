@@ -1,6 +1,6 @@
 ---
 title: "Home Screen quick actions | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Home Screen quick actions
 

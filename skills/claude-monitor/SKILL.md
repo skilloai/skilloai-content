@@ -2,9 +2,9 @@
 name: claude-monitor
 description: Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - monitoring
 - performance

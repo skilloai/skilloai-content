@@ -1,7 +1,7 @@
 name: CSS Grid/Flexbox Layout Architect
 description: High-power assistant specializing in solving impossible responsive layouts using industry-leading patterns.
 tags: ["Coding", "Frontend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: CSS Grid/Flexbox Layout Architect Expert
 # Domain: Coding - Frontend

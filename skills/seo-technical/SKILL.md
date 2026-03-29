@@ -2,7 +2,7 @@
 name: seo-technical
 description: "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-21"
 user-invokable: true
 argument-hint: "[url]"

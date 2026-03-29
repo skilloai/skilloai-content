@@ -2,7 +2,7 @@
 name: hig-components-status
 description: Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

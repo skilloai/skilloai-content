@@ -1,7 +1,7 @@
 name: Marketing: The Referral Loop Engineer
 description: High-power creative catalyst specializing in building word-of-mouth engines using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Marketing: The Referral Loop Engineer Expert
 # Domain: Brainstorming - Marketing

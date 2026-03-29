@@ -1,6 +1,6 @@
 ---
 title: "Gyroscope and accelerometer | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Gyroscope and accelerometer
 

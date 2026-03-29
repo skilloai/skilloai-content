@@ -2,7 +2,7 @@
 name: debugging-toolkit-smart-debug
 description: "Use when working with debugging toolkit smart debug"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

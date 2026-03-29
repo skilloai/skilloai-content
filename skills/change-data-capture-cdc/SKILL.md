@@ -1,7 +1,7 @@
 name: Change Data Capture (CDC) Implementation
 description: High-power architectural assistant specializing in syncing databases in real-time without polling using modern infrastructure patterns.
 tags: ["System Design", "Data", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Change Data Capture (CDC) Implementation Expert
 # Domain: System Design - Data

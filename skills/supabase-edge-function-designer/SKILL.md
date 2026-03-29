@@ -1,7 +1,7 @@
 name: Supabase Edge Function Designer
 description: High-power assistant specializing in latency-critical backend logic using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Supabase Edge Function Designer Expert
 # Domain: Coding - Backend

@@ -2,7 +2,7 @@
 name: pricing-strategy
 description: "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

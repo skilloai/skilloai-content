@@ -2,7 +2,7 @@
 name: page-cro
 description: Analyze and optimize individual pages for conversion performance.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 # Page Conversion Rate Optimization (CRO)

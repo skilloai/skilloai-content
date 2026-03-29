@@ -2,7 +2,7 @@
 name: oss-hunter
 description: "Automatically hunt for high-impact OSS contribution opportunities in trending repositories."
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,7 +2,7 @@
 name: ask-questions-if-underspecified
 description: Clarify requirements before implementing. Use when serious doubts arise.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Ask Questions If Underspecified

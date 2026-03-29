@@ -2,7 +2,7 @@
 name: expo-dev-client
 description: Build and distribute Expo development clients locally or via TestFlight
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 version: 1.0.0
 license: MIT
 ---

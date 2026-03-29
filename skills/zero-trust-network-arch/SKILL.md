@@ -1,7 +1,7 @@
 name: Zero-Trust Network Architect
 description: High-power architectural assistant specializing in micro-segmentation and identity-aware proxies using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Zero-Trust Network Architect Expert
 # Domain: System Design - Security

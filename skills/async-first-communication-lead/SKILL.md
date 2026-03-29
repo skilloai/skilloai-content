@@ -1,7 +1,7 @@
 name: Collaboration: Async-First Communication Lead
 description: High-power productivity strategist specializing in reducing slack and teams noise using scientifically-backed methods.
 tags: ["Productivity", "Communication", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Collaboration: Async-First Communication Lead Expert
 # Domain: Productivity - Communication

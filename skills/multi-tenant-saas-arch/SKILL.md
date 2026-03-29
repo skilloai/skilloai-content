@@ -1,7 +1,7 @@
 name: Multi-tenant SaaS Architecture
 description: High-power architectural assistant specializing in database per tenant vs shared schema strategies using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Multi-tenant SaaS Architecture Expert
 # Domain: System Design - Infrastructure

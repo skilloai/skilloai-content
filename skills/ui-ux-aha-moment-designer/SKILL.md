@@ -1,7 +1,7 @@
 name: UI/UX: The Aha Moment Designer
 description: High-power creative catalyst specializing in engineering the first 5 seconds of product usage using radical ideation techniques.
 tags: ["Brainstorming", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: UI/UX: The Aha Moment Designer Expert
 # Domain: Brainstorming - Product Strategy

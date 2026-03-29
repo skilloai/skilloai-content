@@ -2,7 +2,7 @@
 name: claude-speed-reader
 description: "-Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

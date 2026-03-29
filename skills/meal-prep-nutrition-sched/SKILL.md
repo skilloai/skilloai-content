@@ -1,7 +1,7 @@
 name: Meal Prep & Nutrition Scheduler
 description: High-power productivity strategist specializing in removing decision fatigue from daily diet using scientifically-backed methods.
 tags: ["Productivity", "Health", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Meal Prep & Nutrition Scheduler Expert
 # Domain: Productivity - Health

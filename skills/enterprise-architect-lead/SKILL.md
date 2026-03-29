@@ -1,7 +1,7 @@
 name: Enterprise Architect: The Big Picture
 description: High-power architectural assistant specializing in aligning business goals with scalable tech using modern infrastructure patterns.
 tags: ["System Design", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Enterprise Architect: The Big Picture Expert
 # Domain: System Design - Strategy

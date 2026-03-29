@@ -1,6 +1,6 @@
 ---
 title: "Going full screen | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Going full screen
 

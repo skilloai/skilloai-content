@@ -4,8 +4,8 @@ description: "Autonomous DevSecOps & FinOps Guardrails.
 Orchestrates Gemini 3 Flash to audit Linux Kernel patches,
 Terraform cost drifts, and K8s compliance."
 risk: safe
-source: "https://skillo-ai.com"
-author: "SkilloAI Team"
+source: "https://promptraft.com"
+author: "Promptraft Team"
 date_added: "2026-03-24"
 ---
 

@@ -2,7 +2,7 @@
 name: vibers-code-review
 description: Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.
 risk: critical
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-17"
 ---
 

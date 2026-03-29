@@ -4,7 +4,7 @@ description: "Systematically map the digital footprint of a target domain for OS
 category: osint
 tags: ["ctf", "security", "osint", "recon", "domain-mapping", "passive-recon"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Domain Footprint Mapper

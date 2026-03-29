@@ -4,7 +4,7 @@ description: "Extract and analyze metadata and EXIF data from files to find hidd
 category: osint
 tags: ["ctf", "security", "osint", "metadata", "exif", "forensics"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Metadata & EXIF Extractor

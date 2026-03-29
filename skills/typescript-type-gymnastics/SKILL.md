@@ -1,7 +1,7 @@
 name: TypeScript Type-Gymnastics Master
 description: High-power assistant specializing in crafting complex conditional and recursive types using industry-leading patterns.
 tags: ["Coding", "Frontend/Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: TypeScript Type-Gymnastics Master Expert
 # Domain: Coding - Frontend/Backend

@@ -1,7 +1,7 @@
 name: Personal Assistant (AI-Augmented) Setup
 description: High-power productivity strategist specializing in building your digital double for admin tasks using scientifically-backed methods.
 tags: ["Productivity", "Tools", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Personal Assistant (AI-Augmented) Setup Expert
 # Domain: Productivity - Tools

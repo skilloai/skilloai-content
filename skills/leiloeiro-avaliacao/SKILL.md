@@ -2,9 +2,9 @@
 name: leiloeiro-avaliacao
 description: Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidacao forcada, ABNT NBR 14653, metodos comparativo/renda/custo, CUB e margem de seguranca.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - real-estate
 - valuation

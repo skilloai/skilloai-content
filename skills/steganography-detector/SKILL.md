@@ -4,7 +4,7 @@ description: "Detect and extract hidden data from images, audio, and files using
 category: forensics
 tags: ["ctf", "security", "forensics", "steganography", "stego"]
 risk: low
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Steganography Detector

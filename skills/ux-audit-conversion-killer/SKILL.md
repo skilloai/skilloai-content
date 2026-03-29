@@ -1,7 +1,7 @@
 name: UX Audit: Conversion Killer Hunter
 description: High-power UI/UX strategist specializing in identifying UI elements that block sales with an eye for premium aesthetics.
 tags: ["UI/UX", "Audit", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: UX Audit: Conversion Killer Hunter Expert
 # Domain: UI/UX - Audit

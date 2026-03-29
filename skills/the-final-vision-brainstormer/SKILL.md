@@ -1,7 +1,7 @@
 name: The Final Vision Brainstormer
 description: High-power creative catalyst specializing in how does this grand project end using radical ideation techniques.
 tags: ["Brainstorming", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: The Final Vision Brainstormer Expert
 # Domain: Brainstorming - Strategy

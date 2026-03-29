@@ -3,7 +3,7 @@ name: postgresql-optimization
 description: "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management."
 category: granular-workflow-bundle
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -1,7 +1,7 @@
 name: Service Mesh (Istio) Traffic Controller
 description: High-power architectural assistant specializing in canary deployments and circuit breaking logic using modern infrastructure patterns.
 tags: ["System Design", "Cloud", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Service Mesh (Istio) Traffic Controller Expert
 # Domain: System Design - Cloud

@@ -1,7 +1,7 @@
 name: Coding Interview: DP Master
 description: High-power assistant specializing in Dynamic Programming pattern mastery using industry-leading patterns.
 tags: ["Coding", "Algorithms", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Coding Interview: DP Master Expert
 # Domain: Coding - Algorithms

@@ -1,7 +1,7 @@
 name: Webpack to Vite Migration
 description: High-power assistant specializing in modernizing legacy build systems using industry-leading patterns.
 tags: ["Coding", "DevOps", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Webpack to Vite Migration Expert
 # Domain: Coding - DevOps

@@ -2,9 +2,9 @@
 name: telegram
 description: Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.
 risk: critical
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - messaging
 - telegram

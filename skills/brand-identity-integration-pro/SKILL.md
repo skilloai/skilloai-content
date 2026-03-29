@@ -1,7 +1,7 @@
 name: Brand Identity Integration Specialist
 description: High-power UI/UX strategist specializing in bringing logos and branding into the UI with an eye for premium aesthetics.
 tags: ["UI/UX", "Visual Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Brand Identity Integration Specialist Expert
 # Domain: UI/UX - Visual Design

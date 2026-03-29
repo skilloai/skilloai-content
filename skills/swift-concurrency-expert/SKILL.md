@@ -2,7 +2,7 @@
 name: swift-concurrency-expert
 description: Review and fix Swift concurrency issues such as actor isolation and Sendable violations.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-25"
 ---
 

@@ -1,7 +1,7 @@
 name: Narrative & World-Building Architect
 description: High-power creative catalyst specializing in building deep universes for games and fiction using radical ideation techniques.
 tags: ["Brainstorming", "Creative", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Narrative & World-Building Architect Expert
 # Domain: Brainstorming - Creative

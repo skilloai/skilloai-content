@@ -1,7 +1,7 @@
 name: Node.js Memory Leak Detective
 description: High-power assistant specializing in finding closures and global leaks using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Node.js Memory Leak Detective Expert
 # Domain: Coding - Backend

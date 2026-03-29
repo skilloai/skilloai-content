@@ -2,7 +2,7 @@
 name: crypto-bd-agent
 description: "Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges."
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 tags: null
 date_added: '2026-02-27'
 ---

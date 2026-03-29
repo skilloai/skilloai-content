@@ -2,7 +2,7 @@
 name: employment-contract-templates
 description: "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

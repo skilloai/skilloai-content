@@ -1,7 +1,7 @@
 name: Refactoring: Code Smell Hunter
 description: High-power assistant specializing in identifying and fixing deep duplication using industry-leading patterns.
 tags: ["Coding", "Refactoring", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Refactoring: Code Smell Hunter Expert
 # Domain: Coding - Refactoring

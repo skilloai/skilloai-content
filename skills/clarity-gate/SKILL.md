@@ -2,13 +2,13 @@
 # agentskills.io compliant frontmatter
 name: clarity-gate
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 version: 2.1.3
 description: >
   Pre-ingestion verification for epistemic quality in RAG systems.
   Ensures documents are properly qualified before entering knowledge bases.
   Produces CGD (Clarity-Gated Documents) and validates SOT (Source of Truth) files.
-author: "SkilloAI Team"
+author: "Promptraft Team"
 license: CC-BY-4.0
 repository: https://github.com/frmoretto/clarity-gate
 triggers:

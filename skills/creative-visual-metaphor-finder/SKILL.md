@@ -1,7 +1,7 @@
 name: Creative Direction: Visual Metaphor Finder
 description: High-power creative catalyst specializing in showing the solution instead of telling using radical ideation techniques.
 tags: ["Brainstorming", "Branding", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Creative Direction: Visual Metaphor Finder Expert
 # Domain: Brainstorming - Branding

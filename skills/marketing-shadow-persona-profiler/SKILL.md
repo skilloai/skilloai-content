@@ -1,7 +1,7 @@
 name: Marketing: Customer Persona (Shadow) Profiler
 description: High-power creative catalyst specializing in identifying deep desires and fears using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Marketing: Customer Persona (Shadow) Profiler Expert
 # Domain: Brainstorming - Marketing

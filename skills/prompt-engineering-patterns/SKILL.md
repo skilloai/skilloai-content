@@ -2,7 +2,7 @@
 name: prompt-engineering-patterns
 description: "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

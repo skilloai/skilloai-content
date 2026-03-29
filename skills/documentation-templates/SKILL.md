@@ -2,7 +2,7 @@
 name: documentation-templates
 description: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

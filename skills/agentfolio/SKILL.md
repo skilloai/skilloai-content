@@ -2,7 +2,7 @@
 name: agentfolio
 description: "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

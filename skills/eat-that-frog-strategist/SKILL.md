@@ -1,7 +1,7 @@
 name: Productivity: The Eat That Frog Strategist
 description: High-power productivity strategist specializing in tackling the hardest task first every day using scientifically-backed methods.
 tags: ["Productivity", "Time Management", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Productivity: The Eat That Frog Strategist Expert
 # Domain: Productivity - Time Management

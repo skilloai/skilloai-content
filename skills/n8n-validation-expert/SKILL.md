@@ -2,7 +2,7 @@
 name: n8n-validation-expert
 description: "Expert guide for interpreting and fixing n8n validation errors."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # n8n Validation Expert

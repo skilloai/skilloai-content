@@ -2,9 +2,9 @@
 name: fp-pragmatic
 description: A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 version: 1.0.0
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
   - fp-ts
   - functional-programming

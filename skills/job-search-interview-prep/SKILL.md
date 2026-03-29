@@ -1,7 +1,7 @@
 name: Job Search & Interview Prep Strategist
 description: High-power productivity strategist specializing in reverse engineering the high-end hiring process using scientifically-backed methods.
 tags: ["Productivity", "Career", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Job Search & Interview Prep Strategist Expert
 # Domain: Productivity - Career

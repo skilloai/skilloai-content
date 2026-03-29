@@ -1,7 +1,7 @@
 name: Serverless Workflow Orchestrator
 description: High-power architectural assistant specializing in designing complex Step Functions/Durable Tasks using modern infrastructure patterns.
 tags: ["System Design", "Cloud", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Serverless Workflow Orchestrator Expert
 # Domain: System Design - Cloud

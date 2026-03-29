@@ -1,7 +1,7 @@
 name: Global Data Sovereignty (GDPR/CPRA)
 description: High-power architectural assistant specializing in designing for regional data residency using modern infrastructure patterns.
 tags: ["System Design", "Data", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Global Data Sovereignty (GDPR/CPRA) Expert
 # Domain: System Design - Data

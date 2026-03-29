@@ -1,6 +1,6 @@
 ---
 title: "Tap to Pay on iPhone | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Tap to Pay on iPhone
 

@@ -2,7 +2,7 @@
 name: vibe-code-auditor
 description: Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-28"
 metadata:
   version: 2.0.0

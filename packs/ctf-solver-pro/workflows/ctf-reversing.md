@@ -25,5 +25,5 @@ Transform a binary executable into clear flag-revealing logic and state.
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-reversing
+promptraft workflow run ctf-reversing
 ```

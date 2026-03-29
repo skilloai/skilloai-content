@@ -1,7 +1,7 @@
 name: OAuth2/OIDC Security Flow Designer
 description: High-power architectural assistant specializing in implementing secure PKCE and Refresh Token rotations using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: OAuth2/OIDC Security Flow Designer Expert
 # Domain: System Design - Security

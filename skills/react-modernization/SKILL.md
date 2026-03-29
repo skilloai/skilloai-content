@@ -2,7 +2,7 @@
 name: react-modernization
 description: "Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

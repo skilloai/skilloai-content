@@ -1,7 +1,7 @@
 name: Corporate Strategy: Blue Ocean Finder
 description: High-power creative catalyst specializing in moving where the competition is not using radical ideation techniques.
 tags: ["Brainstorming", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Corporate Strategy: Blue Ocean Finder Expert
 # Domain: Brainstorming - Strategy

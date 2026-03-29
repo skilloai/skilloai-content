@@ -4,7 +4,7 @@ description: Django performance code review. Use when asked to "review Django pe
 allowed-tools: Read, Grep, Glob, Bash, Task
 license: LICENSE
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Django Performance Review

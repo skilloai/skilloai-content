@@ -24,5 +24,5 @@ Transform a single piece of seed information into a complete target footprint an
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-osint
+promptraft workflow run ctf-osint
 ```

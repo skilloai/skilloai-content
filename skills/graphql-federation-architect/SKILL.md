@@ -1,7 +1,7 @@
 name: GraphQL Federation Architect
 description: High-power architectural assistant specializing in stitching multiple subgraphs into unified gateway using modern infrastructure patterns.
 tags: ["System Design", "Microservices", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: GraphQL Federation Architect Expert
 # Domain: System Design - Microservices

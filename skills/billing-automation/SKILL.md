@@ -2,7 +2,7 @@
 name: billing-automation
 description: "Master automated billing systems including recurring billing, invoice generation, dunning management, proration, and tax calculation."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

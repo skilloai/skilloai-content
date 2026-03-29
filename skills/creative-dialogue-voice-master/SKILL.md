@@ -1,7 +1,7 @@
 name: Creative Writing: Dialogue & Voice Master
 description: High-power creative catalyst specializing in creating character-distinct speech using radical ideation techniques.
 tags: ["Brainstorming", "Creative", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Creative Writing: Dialogue & Voice Master Expert
 # Domain: Brainstorming - Creative

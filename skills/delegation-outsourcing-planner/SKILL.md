@@ -1,7 +1,7 @@
 name: Delegation & Outsourcing Planner
 description: High-power productivity strategist specializing in identifying what to offload and how to do it safely using scientifically-backed methods.
 tags: ["Productivity", "Operations", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Delegation & Outsourcing Planner Expert
 # Domain: Productivity - Operations

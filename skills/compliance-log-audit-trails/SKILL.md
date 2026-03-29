@@ -1,7 +1,7 @@
 name: Auditing & Compliance Logging
 description: High-power architectural assistant specializing in designing immutable trails for SOC2/HIPAA using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Auditing & Compliance Logging Expert
 # Domain: System Design - Security

@@ -1,7 +1,7 @@
 name: Typography: Pairings & Scale Architect
 description: High-power UI/UX strategist specializing in establishing a robust type hierarchy system with an eye for premium aesthetics.
 tags: ["UI/UX", "Visual Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Typography: Pairings & Scale Architect Expert
 # Domain: UI/UX - Visual Design

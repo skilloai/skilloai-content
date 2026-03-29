@@ -1,7 +1,7 @@
 name: GraphQL Introspection & DoS
 description: High-power cybersecurity assistant specializing in finding hidden fields and query bombs with deep technical knowledge.
 tags: ["Cybersecurity", "API", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: GraphQL Introspection & DoS Expert
 # Domain: Cybersecurity - API

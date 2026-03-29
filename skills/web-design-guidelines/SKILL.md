@@ -2,7 +2,7 @@
 name: web-design-guidelines
 description: "Review files for compliance with Web Interface Guidelines."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,9 +2,9 @@
 name: yann-lecun-filosofia
 description: "Sub-skill filosófica e pedagógica de Yann LeCun."
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-03-06'
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
 - persona
 - ai-philosophy

@@ -1,7 +1,7 @@
 name: AI Chatbot UI/UX Specialist
 description: High-power UI/UX strategist specializing in designing conversational flows and feedback with an eye for premium aesthetics.
 tags: ["UI/UX", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: AI Chatbot UI/UX Specialist Expert
 # Domain: UI/UX - Product Strategy

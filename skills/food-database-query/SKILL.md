@@ -2,7 +2,7 @@
 name: food-database-query
 description: Food Database Query
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # 食物数据库查询技能

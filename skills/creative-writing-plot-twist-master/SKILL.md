@@ -1,7 +1,7 @@
 name: Creative Writing: Plot Twist Master
 description: High-power creative catalyst specializing in subverting expectations in narrative structures using radical ideation techniques.
 tags: ["Brainstorming", "Creative", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Creative Writing: Plot Twist Master Expert
 # Domain: Brainstorming - Creative

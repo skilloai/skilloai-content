@@ -5,7 +5,7 @@ allowed-tools:
   - Bash
   - Read
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Burp Project Parser

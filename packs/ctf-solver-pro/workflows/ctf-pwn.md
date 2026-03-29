@@ -25,5 +25,5 @@ Transform vulnerable binary state into remote code execution (RCE) and flag acce
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-pwn
+promptraft workflow run ctf-pwn
 ```

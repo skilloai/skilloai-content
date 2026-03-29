@@ -2,7 +2,7 @@
 name: secrets-management
 description: "Secure secrets management practices for CI/CD pipelines using Vault, AWS Secrets Manager, and other tools."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

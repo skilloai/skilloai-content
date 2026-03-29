@@ -1,7 +1,7 @@
 name: Networking & Relationship CRM Planner
 description: High-power productivity strategist specializing in keeping track of professional ties without friction using scientifically-backed methods.
 tags: ["Productivity", "Career", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Networking & Relationship CRM Planner Expert
 # Domain: Productivity - Career

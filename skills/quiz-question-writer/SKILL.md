@@ -33,7 +33,7 @@ date_added: "2026-03-27"
   1. Parse and validate the input for *quiz question writer* context
   2. `Construct enterprise DAG strategy matching Quiz Question Writer`
   3. `Evaluate sub-task dependencies using static analysis`
-  4. `Render verified components mapping strictly to SkilloAI architecture`
+  4. `Render verified components mapping strictly to Promptraft architecture`
   5. Synthesize results and prepare output
 - **Domain Rules:** `- Must eliminate unnecessary abstractions
 - Enforce strict typing

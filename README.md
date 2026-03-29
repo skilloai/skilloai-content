@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="docs/assets/hero-banner.png" alt="SkilloAI Hero Banner" width="1000px">
+  <img src="docs/assets/hero-banner.png" alt="Promptraft Hero Banner" width="1000px">
 
-  # 🧠 SkilloAI 
+  # 🧠 Promptraft 
 
   ### **The Universal AI Expert System**
   *Transform your IDE into a powerhouse with 2,600+ specialized skills, curated packs, and autonomous workflows.*
 
-  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/skilloai/agent-skills)
+  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/promptraft/agent-skills)
   [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-  [![Built For](https://img.shields.io/badge/Supports-All%20AI%20Agents-blue?style=for-the-badge)](https://skilloai.com)
+  [![Built For](https://img.shields.io/badge/Supports-All%20AI%20Agents-blue?style=for-the-badge)](https://promptraft.com)
 
   [Explore Skills](skills/) • [Discover Packs](packs/) • [Run Workflows](workflows/) • [Documentation](docs/)
 </div>
@@ -28,28 +28,28 @@
 
 ## 🚀 Quick Start
 
-Initialize SkilloAI in your project in seconds using the official CLI.
+Initialize Promptraft in your project in seconds using the official CLI.
 
 ```bash
-# Initialize SkilloAI in the current directory
-npx -y skilloai init
+# Initialize Promptraft in the current directory
+npx -y promptraft init
 ```
 
 ### 🧠 Core Commands
 
 | Command | Description |
 | :--- | :--- |
-| `skilloai explore` | Browse 2,600+ skills by category |
-| `skilloai packs` | Discover and install curated Skill Packs |
-| `skilloai run <prompt>` | Execute AI agents or workflows on your input |
-| `skilloai update` | Sync latest content and rebuild local database |
-| `skilloai doctor` | Verify installation and runtime health |
+| `promptraft explore` | Browse 2,600+ skills by category |
+| `promptraft packs` | Discover and install curated Skill Packs |
+| `promptraft run <prompt>` | Execute AI agents or workflows on your input |
+| `promptraft update` | Sync latest content and rebuild local database |
+| `promptraft doctor` | Verify installation and runtime health |
 
 ---
 
 ## 📂 Structure: The `.agent` Directory
 
-SkilloAI uses the `.agent/` directory as its unified runtime. This folder is the standard for modern AI-native development.
+Promptraft uses the `.agent/` directory as its unified runtime. This folder is the standard for modern AI-native development.
 
 ```bash
 .agent/
@@ -63,7 +63,7 @@ SkilloAI uses the `.agent/` directory as its unified runtime. This folder is the
 
 ## 🛠️ Universal AI Integration
 
-SkilloAI is designed to be the "Expert Engine" for **every** modern AI development tool.
+Promptraft is designed to be the "Expert Engine" for **every** modern AI development tool.
 
 ### 🤖 Supported Agents & IDEs
 - **CLI Agents**: Antigravity, Claude Code, Aider, Mentat.
@@ -72,21 +72,21 @@ SkilloAI is designed to be the "Expert Engine" for **every** modern AI developme
 - **Custom Agents**: Any system that can read markdown-based expert skills.
 
 ### 🔌 Running MCP Servers
-SkilloAI supports **Model Context Protocol** servers to give your AI real-time tool access.
+Promptraft supports **Model Context Protocol** servers to give your AI real-time tool access.
 
 ```bash
 # Run standalone using npx/uv
 npx -y @modelcontextprotocol/server-everything
 
-# Or run via SkilloAI CLI for integrated reasoning
-skilloai run "use the sqlite mcp to analyze user data"
+# Or run via Promptraft CLI for integrated reasoning
+promptraft run "use the sqlite mcp to analyze user data"
 ```
 
 ---
 
 ## 🌟 Contributing
 
-SkilloAI is a community-driven expert system. We welcome new skills, packs, and workflow optimizations!
+Promptraft is a community-driven expert system. We welcome new skills, packs, and workflow optimizations!
 
 1.  Check out our **[Contributing Guide](CONTRIBUTING.md)**.
 2.  Use the `@skill-creator` skill to build your own expertise.
@@ -95,6 +95,6 @@ SkilloAI is a community-driven expert system. We welcome new skills, packs, and 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the SkilloAI Community.</sub><br>
+  <sub>Built with ❤️ by the Promptraft Community.</sub><br>
   <sub>"Every expert was once a beginner."</sub>
 </div>

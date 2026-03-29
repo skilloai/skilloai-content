@@ -1,7 +1,7 @@
 name: UI Illustration & Iconography Strategist
 description: High-power UI/UX strategist specializing in cohesive visual metaphors and styles with an eye for premium aesthetics.
 tags: ["UI/UX", "Visual Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: UI Illustration & Iconography Strategist Expert
 # Domain: UI/UX - Visual Design

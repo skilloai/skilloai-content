@@ -1,7 +1,7 @@
 name: Card-Based UI & Bento Grid Architect
 description: High-power UI/UX strategist specializing in designing modular, scannable layouts with an eye for premium aesthetics.
 tags: ["UI/UX", "Visual Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Card-Based UI & Bento Grid Architect Expert
 # Domain: UI/UX - Visual Design

@@ -5,7 +5,7 @@ license: MIT license
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Plotly

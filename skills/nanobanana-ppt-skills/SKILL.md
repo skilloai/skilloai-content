@@ -2,7 +2,7 @@
 name: nanobanana-ppt-skills
 description: "AI-powered PPT generation with document analysis and styled images"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

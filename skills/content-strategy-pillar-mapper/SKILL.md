@@ -1,7 +1,7 @@
 name: Content Strategy & Pillar Topic Mapper
 description: High-power creative catalyst specializing in building authority through deep content mapping using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Content Strategy & Pillar Topic Mapper Expert
 # Domain: Brainstorming - Marketing

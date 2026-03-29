@@ -2,7 +2,7 @@
 name: differential-review
 description: "Security-focused code review for PRs, commits, and diffs."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Differential Security Review

@@ -2,7 +2,7 @@
 name: tdd-workflows-tdd-green
 description: "Implement the minimal code needed to make failing tests pass in the TDD green phase."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

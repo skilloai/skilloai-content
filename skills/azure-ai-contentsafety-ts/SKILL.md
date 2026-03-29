@@ -2,7 +2,7 @@
 name: azure-ai-contentsafety-ts
 description: "Analyze text and images for harmful content with customizable blocklists."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

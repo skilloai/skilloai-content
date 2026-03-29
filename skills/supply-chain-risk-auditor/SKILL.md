@@ -8,7 +8,7 @@ allowed-tools:
   - Glob
   - Grep
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Supply Chain Risk Auditor

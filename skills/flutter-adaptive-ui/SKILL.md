@@ -1,7 +1,7 @@
 name: Darts/Flutter Adaptive UI
 description: High-power assistant specializing in web-mobile-desktop cross-platform UI using industry-leading patterns.
 tags: ["Coding", "Mobile", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Darts/Flutter Adaptive UI Expert
 # Domain: Coding - Mobile

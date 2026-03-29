@@ -1,7 +1,7 @@
 name: Go Channel Orchestrator
 description: High-power assistant specializing in designing deadlock-free concurrency patterns using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Go Channel Orchestrator Expert
 # Domain: Coding - Backend

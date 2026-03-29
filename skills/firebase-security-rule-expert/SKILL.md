@@ -1,7 +1,7 @@
 name: Firebase Security Rule Expert
 description: High-power assistant specializing in fine-grained access control systems using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Firebase Security Rule Expert Expert
 # Domain: Coding - Backend

@@ -2,8 +2,8 @@
 name: active-directory-attacks
 description: "Provide comprehensive techniques for attacking Microsoft Active Directory environments. Covers reconnaissance, credential harvesting, Kerberos attacks, lateral movement, privilege escalation, and domain dominance for red team operations and penetration testing."
 risk: unknown
-source: "https://skillo-ai.com"
-author: "SkilloAI Team"
+source: "https://promptraft.com"
+author: "Promptraft Team"
 date_added: "2026-02-27"
 ---
 

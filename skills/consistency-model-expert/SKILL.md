@@ -1,7 +1,7 @@
 name: Consistency Models (Eventual vs Strong)
 description: High-power architectural assistant specializing in choosing the right trade-offs for CAP theorem using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Consistency Models (Eventual vs Strong) Expert
 # Domain: System Design - Reliability

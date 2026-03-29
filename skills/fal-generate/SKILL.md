@@ -2,7 +2,7 @@
 name: fal-generate
 description: "Generate images and videos using fal.ai AI models"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

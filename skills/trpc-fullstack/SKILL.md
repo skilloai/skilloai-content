@@ -3,9 +3,9 @@ name: trpc-fullstack
 description: "Build end-to-end type-safe APIs with tRPC — routers, procedures, middleware, subscriptions, and Next.js/React integration patterns."
 category: framework
 risk: none
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-17"
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags: [typescript, trpc, api, fullstack, nextjs, react, type-safety]
 tools: [claude, cursor, gemini]
 ---

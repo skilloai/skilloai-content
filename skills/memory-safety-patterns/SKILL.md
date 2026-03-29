@@ -2,7 +2,7 @@
 name: memory-safety-patterns
 description: "Cross-language patterns for memory-safe programming including RAII, ownership, smart pointers, and resource management."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

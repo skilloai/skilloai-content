@@ -2,8 +2,8 @@
 name: red-team-tools
 description: "Implement proven methodologies and tool workflows from top security researchers for effective reconnaissance, vulnerability discovery, and bug bounty hunting. Automate common tasks while maintaining thorough coverage of attack surfaces."
 risk: unknown
-source: "https://skillo-ai.com"
-author: "SkilloAI Team"
+source: "https://promptraft.com"
+author: "Promptraft Team"
 date_added: "2026-02-27"
 ---
 

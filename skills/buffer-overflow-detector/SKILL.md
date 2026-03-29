@@ -4,7 +4,7 @@ description: "Systematically detect and analyze stack/heap buffer overflow vulne
 category: pwn
 tags: ["ctf", "security", "pwn", "buffer-overflow", "binary-exploitation"]
 risk: high
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Buffer Overflow Detector

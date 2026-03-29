@@ -1,7 +1,7 @@
 name: Service Discovery (Consul/Etcd)
 description: High-power architectural assistant specializing in dynamic IP management in elastic environments using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Service Discovery (Consul/Etcd) Expert
 # Domain: System Design - Infrastructure

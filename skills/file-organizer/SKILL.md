@@ -2,7 +2,7 @@
 name: file-organizer
 description: "6. Reduces Clutter: Identifies old files you probably don't need anymore"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

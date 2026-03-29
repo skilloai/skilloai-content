@@ -2,9 +2,9 @@
 name: fp-backend
 description: Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 version: 1.0.0
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
   - fp-ts
   - typescript

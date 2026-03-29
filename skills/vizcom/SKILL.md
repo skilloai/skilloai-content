@@ -2,7 +2,7 @@
 name: vizcom
 description: AI-powered product design tool for transforming sketches into full-fidelity 3D renders.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-07"
 ---
 

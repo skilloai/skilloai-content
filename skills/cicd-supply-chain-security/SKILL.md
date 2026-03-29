@@ -1,7 +1,7 @@
 name: CI/CD Pipeline Security
 description: High-power architectural assistant specializing in preventing supply chain attacks in builds using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: CI/CD Pipeline Security Expert
 # Domain: System Design - Security

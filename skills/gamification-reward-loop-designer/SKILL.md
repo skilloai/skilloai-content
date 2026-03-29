@@ -1,7 +1,7 @@
 name: Gamification: Reward & Feedback Loop Designer
 description: High-power creative catalyst specializing in making boring tasks fun via systems using radical ideation techniques.
 tags: ["Brainstorming", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Gamification: Reward & Feedback Loop Designer Expert
 # Domain: Brainstorming - Product Strategy

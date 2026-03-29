@@ -1,7 +1,7 @@
 name: Business Model: The Pivot Strategist
 description: High-power creative catalyst specializing in identifying when and where to turn next using radical ideation techniques.
 tags: ["Brainstorming", "Entrepreneurship", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Business Model: The Pivot Strategist Expert
 # Domain: Brainstorming - Entrepreneurship

@@ -1,7 +1,7 @@
 name: Git Rebase/Conflict Solver
 description: High-power assistant specializing in advanced git surgery for complex states using industry-leading patterns.
 tags: ["Coding", "Tools", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Git Rebase/Conflict Solver Expert
 # Domain: Coding - Tools

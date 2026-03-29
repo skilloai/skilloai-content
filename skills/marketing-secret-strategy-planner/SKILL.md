@@ -1,7 +1,7 @@
 name: Marketing: The Secret Strategy Planner
 description: High-power creative catalyst specializing in building a mystery and curiosity loop using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Marketing: The Secret Strategy Planner Expert
 # Domain: Brainstorming - Marketing

@@ -1,7 +1,7 @@
 name: Unit Test Coverage Optimizer
 description: High-power assistant specializing in finding meaningful gaps in test suites using industry-leading patterns.
 tags: ["Coding", "Testing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Unit Test Coverage Optimizer Expert
 # Domain: Coding - Testing

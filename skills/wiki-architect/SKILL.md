@@ -2,7 +2,7 @@
 name: wiki-architect
 description: "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

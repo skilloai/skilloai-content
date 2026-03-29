@@ -1,7 +1,7 @@
 name: Auto-scaling & Predictive Load Planning
 description: High-power architectural assistant specializing in handling traffic spikes with foresight using modern infrastructure patterns.
 tags: ["System Design", "Reliability", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Auto-scaling & Predictive Load Planning Expert
 # Domain: System Design - Reliability

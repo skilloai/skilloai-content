@@ -1,7 +1,7 @@
 name: UX Strategy: Product Market Fit UI
 description: High-power UI/UX strategist specializing in aligning features with verified user desires with an eye for premium aesthetics.
 tags: ["UI/UX", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: UX Strategy: Product Market Fit UI Expert
 # Domain: UI/UX - Product Strategy

@@ -2,8 +2,8 @@
 name: idor-testing
 description: "Provide systematic methodologies for identifying and exploiting Insecure Direct Object Reference (IDOR) vulnerabilities in web applications."
 risk: unknown
-source: "https://skillo-ai.com"
-author: "SkilloAI Team"
+source: "https://promptraft.com"
+author: "Promptraft Team"
 date_added: "2026-02-27"
 ---
 

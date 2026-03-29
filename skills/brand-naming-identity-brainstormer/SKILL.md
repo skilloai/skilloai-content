@@ -1,7 +1,7 @@
 name: Brand Naming & Identity Brainstormer
 description: High-power creative catalyst specializing in finding the perfect available name and personality using radical ideation techniques.
 tags: ["Brainstorming", "Branding", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Brand Naming & Identity Brainstormer Expert
 # Domain: Brainstorming - Branding

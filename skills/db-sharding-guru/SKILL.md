@@ -1,7 +1,7 @@
 name: Database Sharding & Partitioning Guru
 description: High-power architectural assistant specializing in scaling RDBMS beyond single-instance limits using modern infrastructure patterns.
 tags: ["System Design", "Database", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Database Sharding & Partitioning Guru Expert
 # Domain: System Design - Database

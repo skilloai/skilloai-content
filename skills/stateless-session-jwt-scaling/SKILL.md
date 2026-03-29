@@ -1,7 +1,7 @@
 name: Stateless Session Management
 description: High-power architectural assistant specializing in scaling auth with JWTs and distributed stores using modern infrastructure patterns.
 tags: ["System Design", "Security", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Stateless Session Management Expert
 # Domain: System Design - Security

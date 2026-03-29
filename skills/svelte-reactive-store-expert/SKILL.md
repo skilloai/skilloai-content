@@ -1,7 +1,7 @@
 name: Svelte Reactive Store Expert
 description: High-power assistant specializing in managing global state without boilerplate using industry-leading patterns.
 tags: ["Coding", "Frontend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Svelte Reactive Store Expert Expert
 # Domain: Coding - Frontend

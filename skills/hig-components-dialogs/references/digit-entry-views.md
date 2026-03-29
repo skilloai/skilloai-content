@@ -1,6 +1,6 @@
 ---
 title: "Digit entry views | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Digit entry views
 

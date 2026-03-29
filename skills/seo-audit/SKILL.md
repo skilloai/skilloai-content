@@ -2,7 +2,7 @@
 name: seo-audit
 description: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

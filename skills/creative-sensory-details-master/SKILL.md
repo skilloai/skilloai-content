@@ -1,7 +1,7 @@
 name: Creative Writing: Sensory Details Master
 description: High-power creative catalyst specializing in making the reader feel the story using radical ideation techniques.
 tags: ["Brainstorming", "Creative", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Creative Writing: Sensory Details Master Expert
 # Domain: Brainstorming - Creative

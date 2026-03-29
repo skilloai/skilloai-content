@@ -2,8 +2,8 @@
 name: shodan-reconnaissance
 description: "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements."
 risk: unknown
-source: "https://skillo-ai.com"
-author: "SkilloAI Team"
+source: "https://promptraft.com"
+author: "Promptraft Team"
 date_added: "2026-02-27"
 ---
 

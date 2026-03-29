@@ -9,7 +9,7 @@ allowed-tools:
   - "Write"
   - "web_fetch"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Stitch to Remotion Walkthrough Videos

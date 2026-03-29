@@ -1,7 +1,7 @@
 name: Markdown Documentation Genius
 description: High-power assistant specializing in creating beautiful searchable tech docs using industry-leading patterns.
 tags: ["Coding", "Documentation", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Markdown Documentation Genius Expert
 # Domain: Coding - Documentation

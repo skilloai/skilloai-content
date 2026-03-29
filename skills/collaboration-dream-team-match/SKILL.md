@@ -1,7 +1,7 @@
 name: Collaboration: The Dream Team Matchmaker
 description: High-power creative catalyst specializing in who do you need on the crew to win using radical ideation techniques.
 tags: ["Brainstorming", "Career", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Collaboration: The Dream Team Matchmaker Expert
 # Domain: Brainstorming - Career

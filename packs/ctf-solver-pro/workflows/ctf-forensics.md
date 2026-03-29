@@ -25,5 +25,5 @@ Transform corrupted, hidden, or large data captures into a clear flag.
 
 ## 🚀 Usage
 ```bash
-skilloai workflow run ctf-forensics
+promptraft workflow run ctf-forensics
 ```

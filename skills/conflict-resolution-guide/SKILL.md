@@ -1,7 +1,7 @@
 name: Conflict Resolution & Communication Guide
 description: High-power productivity strategist specializing in handling difficult workplace conversations using scientifically-backed methods.
 tags: ["Productivity", "Communication", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Conflict Resolution & Communication Guide Expert
 # Domain: Productivity - Communication

@@ -2,7 +2,7 @@
 name: varlock
 description: "Secure-by-default environment variable management for Claude Code sessions."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 version: 1.0.0
 ---
 

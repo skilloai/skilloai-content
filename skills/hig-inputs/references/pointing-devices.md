@@ -1,6 +1,6 @@
 ---
 title: "Pointing devices | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Pointing devices
 

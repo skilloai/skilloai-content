@@ -2,7 +2,7 @@
 name: ffuf-claude-skill
 description: "Web fuzzing with ffuf"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

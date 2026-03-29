@@ -1,7 +1,7 @@
 name: Vue 3 Composition Logic Extractor
 description: High-power assistant specializing in refactoring Options API to Composables using industry-leading patterns.
 tags: ["Coding", "Frontend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Vue 3 Composition Logic Extractor Expert
 # Domain: Coding - Frontend

@@ -1,7 +1,7 @@
 name: Container Orchestration (K8s) Expert
 description: High-power architectural assistant specializing in resource limits, affinity rules, and ingress using modern infrastructure patterns.
 tags: ["System Design", "Cloud", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Container Orchestration (K8s) Expert Expert
 # Domain: System Design - Cloud

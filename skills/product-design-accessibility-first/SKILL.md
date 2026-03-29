@@ -1,7 +1,7 @@
 name: Product Design: The Accessibility-First Thinker
 description: High-power creative catalyst specializing in designing for 100% inclusion from day zero using radical ideation techniques.
 tags: ["Brainstorming", "Accessibility", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Product Design: The Accessibility-First Thinker Expert
 # Domain: Brainstorming - Accessibility

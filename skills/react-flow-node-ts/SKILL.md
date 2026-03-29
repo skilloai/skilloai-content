@@ -2,7 +2,7 @@
 name: react-flow-node-ts
 description: "Create React Flow node components following established patterns with proper TypeScript types and store integration."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

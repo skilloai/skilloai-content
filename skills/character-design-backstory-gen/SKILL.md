@@ -1,7 +1,7 @@
 name: Character Design & Backstory Generator
 description: High-power creative catalyst specializing in making personas feel deep and multi-dimensional using radical ideation techniques.
 tags: ["Brainstorming", "Creative", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Character Design & Backstory Generator Expert
 # Domain: Brainstorming - Creative

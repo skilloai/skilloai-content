@@ -1,7 +1,7 @@
 name: Product: The Swiss Army Knife vs Scalpel Decision
 description: High-power creative catalyst specializing in finding the right focus for utilities using radical ideation techniques.
 tags: ["Brainstorming", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Product: The Swiss Army Knife vs Scalpel Decision Expert
 # Domain: Brainstorming - Product Strategy

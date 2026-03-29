@@ -2,7 +2,7 @@
 name: gdpr-data-handling
 description: "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

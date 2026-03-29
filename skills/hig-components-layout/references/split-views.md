@@ -1,6 +1,6 @@
 ---
 title: "Split views | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Split views
 

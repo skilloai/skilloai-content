@@ -1,7 +1,7 @@
 name: Personal Branding & Authority Planner
 description: High-power productivity strategist specializing in building a solid digital presence using scientifically-backed methods.
 tags: ["Productivity", "Career", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Personal Branding & Authority Planner Expert
 # Domain: Productivity - Career

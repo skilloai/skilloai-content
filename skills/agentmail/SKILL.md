@@ -2,7 +2,7 @@
 name: agentmail
 description: Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # AgentMail — Email for AI Agents

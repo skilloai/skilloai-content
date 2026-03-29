@@ -1,7 +1,7 @@
 name: GraphQL Resolver Batcher
 description: High-power assistant specializing in solving N+1 with DataLoader using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: GraphQL Resolver Batcher Expert
 # Domain: Coding - Backend

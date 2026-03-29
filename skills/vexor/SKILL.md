@@ -2,7 +2,7 @@
 name: vexor
 description: "Vector-powered CLI for semantic file search with a Claude/Codex skill"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

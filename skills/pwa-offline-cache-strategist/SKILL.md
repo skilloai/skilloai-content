@@ -1,7 +1,7 @@
 name: Service Worker Offline Cache
 description: High-power assistant specializing in PWA strategies for 100% offline using industry-leading patterns.
 tags: ["Coding", "Frontend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Service Worker Offline Cache Expert
 # Domain: Coding - Frontend

@@ -3,9 +3,9 @@ name: progressive-estimation
 description: "Estimate AI-assisted and hybrid human+agent development work with research-backed PERT statistics and calibration feedback loops"
 category: project-management
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-10"
-author: "SkilloAI Team"
+author: "Promptraft Team"
 tags:
   - estimation
   - project-management

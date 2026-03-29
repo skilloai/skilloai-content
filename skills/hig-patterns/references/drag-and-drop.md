@@ -1,6 +1,6 @@
 ---
 title: "Drag and drop | Apple Developer Documentation"
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 
 # Drag and drop
 

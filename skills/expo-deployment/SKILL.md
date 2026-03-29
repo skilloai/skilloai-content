@@ -2,7 +2,7 @@
 name: expo-deployment
 description: "Deploy Expo apps to production"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

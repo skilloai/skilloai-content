@@ -3,7 +3,7 @@ name: content-creator
 description: "Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks."
 category: marketing
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

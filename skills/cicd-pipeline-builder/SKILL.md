@@ -16,7 +16,7 @@ generated_by: mass-generate-skills.js v2.0.0
 
 > **Skill ID:** `WEB-025` · **Domain:** Web Development · **Type:** Transformative
 
-This skill follows the universal 5-stage SkilloAI pipeline. All architectural decisions,
+This skill follows the universal 5-stage Promptraft pipeline. All architectural decisions,
 tool integrations, and quality gates are pre-configured for production use.
 
 ---

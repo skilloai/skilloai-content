@@ -2,7 +2,7 @@
 name: 2d-games
 description: "2D game development principles. Sprites, tilemaps, physics, camera."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

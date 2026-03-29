@@ -2,7 +2,7 @@
 name: c-pro
 description: "Write efficient C code with proper memory management, pointer"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

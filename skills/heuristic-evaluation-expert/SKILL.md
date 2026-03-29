@@ -1,7 +1,7 @@
 name: Heuristic Evaluation Expert
 description: High-power UI/UX strategist specializing in auditing sites against Nielsen 10 principles with an eye for premium aesthetics.
 tags: ["UI/UX", "Audit", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Heuristic Evaluation Expert Expert
 # Domain: UI/UX - Audit

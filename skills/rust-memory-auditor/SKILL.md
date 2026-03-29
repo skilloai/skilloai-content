@@ -1,7 +1,7 @@
 name: Rust Memory Safety Auditor
 description: High-power assistant specializing in auditing ownership, borrowing, and unsafe blocks using industry-leading patterns.
 tags: ["Coding", "Systems Programming", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Rust Memory Safety Auditor Expert
 # Domain: Coding - Systems Programming

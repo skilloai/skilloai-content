@@ -1,7 +1,7 @@
 name: User Persona & Empathy Mapping
 description: High-power UI/UX strategist specializing in designing for specific researched mental models with an eye for premium aesthetics.
 tags: ["UI/UX", "Research", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: User Persona & Empathy Mapping Expert
 # Domain: UI/UX - Research

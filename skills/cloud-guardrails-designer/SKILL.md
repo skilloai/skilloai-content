@@ -1,7 +1,7 @@
 name: Cloud Guardrails Designer
 description: High-power cybersecurity assistant specializing in implementing SCPs and IAM boundaries with deep technical knowledge.
 tags: ["Cybersecurity", "Cloud", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Cloud Guardrails Designer Expert
 # Domain: Cybersecurity - Cloud

@@ -2,7 +2,7 @@
 name: shopify-apps
 description: "Modern Shopify app template with React Router"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

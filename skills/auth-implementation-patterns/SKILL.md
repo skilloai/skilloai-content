@@ -2,7 +2,7 @@
 name: auth-implementation-patterns
 description: "Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

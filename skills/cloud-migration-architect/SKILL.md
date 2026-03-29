@@ -1,7 +1,7 @@
 name: Cloud Migration Consultant
 description: High-power architectural assistant specializing in modernizing monolithic infrastructure to cloud native using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Cloud Migration Consultant Expert
 # Domain: System Design - Infrastructure

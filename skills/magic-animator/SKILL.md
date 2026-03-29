@@ -2,7 +2,7 @@
 name: magic-animator
 description: AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-07"
 ---
 

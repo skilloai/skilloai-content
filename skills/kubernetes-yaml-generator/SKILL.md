@@ -1,7 +1,7 @@
 name: Kubernetes YAML Generator
 description: High-power assistant specializing in production-grade k8s manifests using industry-leading patterns.
 tags: ["Coding", "DevOps", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Kubernetes YAML Generator Expert
 # Domain: Coding - DevOps

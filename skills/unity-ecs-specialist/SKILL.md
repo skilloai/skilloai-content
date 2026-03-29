@@ -1,7 +1,7 @@
 name: Unity C# ECS Specialist
 description: High-power assistant specializing in high-performance Entity Component systems using industry-leading patterns.
 tags: ["Coding", "Game Dev", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Unity C# ECS Specialist Expert
 # Domain: Coding - Game Dev

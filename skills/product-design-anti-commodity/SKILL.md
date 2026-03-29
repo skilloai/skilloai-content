@@ -1,7 +1,7 @@
 name: Product Design: The Anti-Commodity Thinker
 description: High-power creative catalyst specializing in how to be different in a crowded market using radical ideation techniques.
 tags: ["Brainstorming", "Product Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Product Design: The Anti-Commodity Thinker Expert
 # Domain: Brainstorming - Product Strategy

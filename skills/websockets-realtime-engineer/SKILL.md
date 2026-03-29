@@ -1,7 +1,7 @@
 name: WebSockets Real-time Engineer
 description: High-power assistant specializing in scaling socket connections securely using industry-leading patterns.
 tags: ["Coding", "Backend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: WebSockets Real-time Engineer Expert
 # Domain: Coding - Backend

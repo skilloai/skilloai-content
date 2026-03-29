@@ -2,7 +2,7 @@
 name: react-component-performance
 description: Diagnose slow React components and suggest targeted performance fixes.
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-03-25"
 ---
 

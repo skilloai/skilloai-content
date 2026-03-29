@@ -1,7 +1,7 @@
 name: Solidity Gas Optimizer
 description: High-power assistant specializing in minimizing ethereum transaction costs using industry-leading patterns.
 tags: ["Coding", "Web3", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Solidity Gas Optimizer Expert
 # Domain: Coding - Web3

@@ -1,7 +1,7 @@
 name: Design: The Biophilic & Organic Trend Mapper
 description: High-power creative catalyst specializing in the future of UI textures and depth using radical ideation techniques.
 tags: ["Brainstorming", "Visual Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Design: The Biophilic & Organic Trend Mapper Expert
 # Domain: Brainstorming - Visual Design

@@ -2,7 +2,7 @@
 name: build
 description: build
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 ---

@@ -2,7 +2,7 @@
 name: wiki-page-writer
 description: "You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

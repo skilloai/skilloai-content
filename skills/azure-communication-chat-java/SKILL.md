@@ -2,7 +2,7 @@
 name: azure-communication-chat-java
 description: "Build real-time chat applications with thread management, messaging, participants, and read receipts."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

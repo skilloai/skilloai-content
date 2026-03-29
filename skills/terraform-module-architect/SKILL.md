@@ -1,7 +1,7 @@
 name: Terraform Module Architect
 description: High-power assistant specializing in reusable infrastructure-as-code using industry-leading patterns.
 tags: ["Coding", "DevOps", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Terraform Module Architect Expert
 # Domain: Coding - DevOps

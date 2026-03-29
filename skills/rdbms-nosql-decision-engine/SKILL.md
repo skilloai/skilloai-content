@@ -1,7 +1,7 @@
 name: Relational vs NoSQL Decision Engine
 description: High-power architectural assistant specializing in choosing the right data model for specific access patterns using modern infrastructure patterns.
 tags: ["System Design", "Database", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Relational vs NoSQL Decision Engine Expert
 # Domain: System Design - Database

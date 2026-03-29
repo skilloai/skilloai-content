@@ -1,7 +1,7 @@
 name: Infrastructure as Code (Modular Terraform)
 description: High-power architectural assistant specializing in designing reusable stacks for enterprise use using modern infrastructure patterns.
 tags: ["System Design", "Infrastructure", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Infrastructure as Code (Modular Terraform) Expert
 # Domain: System Design - Infrastructure

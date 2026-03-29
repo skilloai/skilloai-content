@@ -4,7 +4,7 @@ description: "Design and reason through shellcode payloads for CTF binary exploi
 category: pwn
 tags: ["ctf", "security", "pwn", "shellcode", "assembly"]
 risk: high
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # Shellcode Generator Logic

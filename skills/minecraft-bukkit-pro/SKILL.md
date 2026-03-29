@@ -2,7 +2,7 @@
 name: minecraft-bukkit-pro
 description: Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: '2026-02-27'
 ---
 

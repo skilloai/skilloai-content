@@ -1,7 +1,7 @@
 name: Next.js Server Component Expert
 description: High-power assistant specializing in optimizing hydration and rsc usage using industry-leading patterns.
 tags: ["Coding", "Frontend", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Next.js Server Component Expert Expert
 # Domain: Coding - Frontend

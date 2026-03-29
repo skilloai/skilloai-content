@@ -1,7 +1,7 @@
 name: Social: The Meme-able Moment Designer
 description: High-power creative catalyst specializing in creating cultural currency for products using radical ideation techniques.
 tags: ["Brainstorming", "Marketing", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Social: The Meme-able Moment Designer Expert
 # Domain: Brainstorming - Marketing

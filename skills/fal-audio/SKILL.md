@@ -2,7 +2,7 @@
 name: fal-audio
 description: "Text-to-speech and speech-to-text using fal.ai audio models"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

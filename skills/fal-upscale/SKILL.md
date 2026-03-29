@@ -2,7 +2,7 @@
 name: fal-upscale
 description: "Upscale and enhance image and video resolution using AI"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

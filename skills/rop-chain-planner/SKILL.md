@@ -4,7 +4,7 @@ description: "Design and reason through Return-Oriented Programming (ROP) chains
 category: pwn
 tags: ["ctf", "security", "pwn", "rop", "binary-exploitation"]
 risk: high
-author: SkilloAI Security Team
+author: Promptraft Security Team
 ---
 
 # ROP Chain Planner

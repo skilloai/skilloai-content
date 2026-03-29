@@ -2,7 +2,7 @@
 name: azure-monitor-opentelemetry-ts
 description: "Auto-instrument Node.js applications with distributed tracing, metrics, and logs."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

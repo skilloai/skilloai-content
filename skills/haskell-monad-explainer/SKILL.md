@@ -1,7 +1,7 @@
 name: Haskell Monad Explainer
 description: High-power assistant specializing in implementing complex type-safe logic using industry-leading patterns.
 tags: ["Coding", "Systems", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Haskell Monad Explainer Expert
 # Domain: Coding - Systems

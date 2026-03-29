@@ -2,7 +2,7 @@
 name: django-access-review
 description: django-access-review
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 ---

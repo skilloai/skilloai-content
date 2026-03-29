@@ -1,7 +1,7 @@
 name: DDoS Mitigation Strategist
 description: High-power cybersecurity assistant specializing in scaling across scrubbing centers with deep technical knowledge.
 tags: ["Cybersecurity", "Network", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: DDoS Mitigation Strategist Expert
 # Domain: Cybersecurity - Network

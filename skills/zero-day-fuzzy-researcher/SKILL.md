@@ -1,7 +1,7 @@
 name: Zero-Day Vulnerability Researcher
 description: High-power cybersecurity assistant specializing in fuzzing and manual discover of new bugs with deep technical knowledge.
 tags: ["Cybersecurity", "Exploit", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Zero-Day Vulnerability Researcher Expert
 # Domain: Cybersecurity - Exploit

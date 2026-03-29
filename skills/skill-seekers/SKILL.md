@@ -2,7 +2,7 @@
 name: skill-seekers
 description: "-Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes."
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

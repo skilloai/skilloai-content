@@ -1,7 +1,7 @@
 name: Automation & Zapier Workflow Designer
 description: High-power productivity strategist specializing in connecting apps to save hours of manual work using scientifically-backed methods.
 tags: ["Productivity", "Operations", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Automation & Zapier Workflow Designer Expert
 # Domain: Productivity - Operations

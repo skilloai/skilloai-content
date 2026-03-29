@@ -3,7 +3,7 @@ name: impress
 description: "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress."
 category: presentation-processing
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

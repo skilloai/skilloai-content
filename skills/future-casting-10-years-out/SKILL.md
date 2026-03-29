@@ -1,7 +1,7 @@
 name: Future Casting: The 10 Years Out Visionary
 description: High-power creative catalyst specializing in what comes after the AI revolution using radical ideation techniques.
 tags: ["Brainstorming", "Strategy", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Future Casting: The 10 Years Out Visionary Expert
 # Domain: Brainstorming - Strategy

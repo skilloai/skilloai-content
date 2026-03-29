@@ -2,7 +2,7 @@
 name: mobile-design
 description: "(Mobile-First · Touch-First · Platform-Respectful)"
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 # Mobile Design System

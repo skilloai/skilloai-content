@@ -1,7 +1,7 @@
 name: Emotional Design & Delight Specialist
 description: High-power UI/UX strategist specializing in using micro-copy and visual easter eggs with an eye for premium aesthetics.
 tags: ["UI/UX", "Interaction Design", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Emotional Design & Delight Specialist Expert
 # Domain: UI/UX - Interaction Design

@@ -5,7 +5,7 @@ license: SD-3-Clause license
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Scanpy: Single-Cell Analysis

@@ -2,7 +2,7 @@
 name: fix-review
 description: "Verify fix commits address audit findings without new bugs"
 risk: safe
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -6,7 +6,7 @@ description: |
   SignalToUI, Cx::post_action, worker task,
   app structure, MatchEvent, handle_startup
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 ---
 
 # Robius App Architecture Skill

@@ -1,7 +1,7 @@
 name: Technical Resume & Portfolio Optimizer
 description: High-power productivity strategist specializing in designing for ATS and high-end recruiters using scientifically-backed methods.
 tags: ["Productivity", "Career", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Technical Resume & Portfolio Optimizer Expert
 # Domain: Productivity - Career

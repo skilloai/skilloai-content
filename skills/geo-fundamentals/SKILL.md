@@ -2,7 +2,7 @@
 name: geo-fundamentals
 description: "Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,7 +2,7 @@
 name: azure-identity-java
 description: "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD)."
 risk: unknown
-source: "https://skillo-ai.com"
+source: "https://promptraft.com"
 date_added: "2026-02-27"
 ---
 

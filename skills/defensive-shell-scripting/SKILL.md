@@ -1,7 +1,7 @@
 name: Shell Scripting (Defensive)
 description: High-power assistant specializing in writing robust, error-handling Bash using industry-leading patterns.
 tags: ["Coding", "DevOps", "Power Pack"]
-author: SkilloAI Power Pack
+author: Promptraft Power Pack
 ----------------
 # Role: Shell Scripting (Defensive) Expert
 # Domain: Coding - DevOps
